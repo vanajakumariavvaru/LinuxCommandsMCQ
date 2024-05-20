@@ -32,3 +32,20 @@ Correct answer: a
 	d.Commands line interface
 
 Correct answer: a
+
+5. GNU is pronounced as ‘ g-noo ‘. GNU  stands for
+	a.Gnu’s not Unix
+	b.Graphical User interface
+	c.Graphical net User
+	d.Gnu’s next Unix
+
+Correct answer: a
+
+6. GNU created by 
+
+	a.Linus Torvalds
+	b.Steve jobs
+	c.Richard Stallman
+	d.Bill gates
+
+Correct answer: c
