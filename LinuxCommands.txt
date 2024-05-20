@@ -1,0 +1,34 @@
+1. Linux is 
+
+	a.Kernel
+	b.Operating system
+	c.Network protocol
+	d.Programming Language
+
+Ans : a
+
+2. Open source means you have access to the ________________ and can modify it.
+
+	a.Source code
+	b.Program
+	c.Project funding
+	d.GNU
+Ans : a
+
+3. Linux founded by
+
+	a.Richard Stallman
+	b.Linus Torvalds
+	c.Bill Gates
+	d.Steve Jobs
+
+Correct answer: a
+
+4. CLI stands for 
+
+	a.Command line interface.
+	b.Common line interface
+	c.Control line interface
+	d.Commands line interface
+
+Correct answer: a
