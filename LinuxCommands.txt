@@ -22,7 +22,7 @@ Ans : a
 	c.Bill Gates
 	d.Steve Jobs
 
-Correct answer: a
+Correct answer: b
 
 4. CLI stands for 
 
@@ -34,6 +34,7 @@ Correct answer: a
 Correct answer: a
 
 5. GNU is pronounced as ‘ g-noo ‘. GNU  stands for
+
 	a.Gnu’s not Unix
 	b.Graphical User interface
 	c.Graphical net User
@@ -49,3 +50,14 @@ Correct answer: a
 	d.Bill gates
 
 Correct answer: c
+
+7. Linux is primarily written in which language?
+
+	a.C++
+	b.perl
+	c.bash
+	d.C
+	e.Python
+	f.Assembly Language
+
+Correct answer: d
