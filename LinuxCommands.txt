@@ -61,3 +61,56 @@ Correct answer: c
 	f.Assembly Language
 
 Correct answer: d
+
+8. Who develop GNU?
+
+	a.Linus Torvalds
+	b.Ken Thompson
+	c.Richard Stallman
+	d.Gary Arlen Killdall
+
+Correct answer: c
+
+9. What linux command is used to list all files and folders
+
+	a.l
+	b.list
+	c.ls
+	d.All of the above
+
+Correct answer: a
+
+10. What linux command can list out all the current active login user name?
+
+	a.w
+	b.whoami
+	c.who
+	d.All of the above
+
+Correct answer: d
+
+11. GNU is written in which language
+
+	a.C and Lisp programming language
+	b.Perl
+	c.Bash
+	d.C++
+
+Correct answer: a
+
+12. Linux Commands are case sensitive
+
+	a.True
+	b.False
+
+Correct answer: a
+
+13. In Linux, 'pwd' stands for
+
+	a.Present Working Directory
+	b.Current Working Directory
+	c.Print Working Directory
+	d.Personal Working Directory
+
+Correct answer: c
+
