@@ -122,3 +122,12 @@ Correct answer: c
 	d.hostname
 
 Correct answer: d
+
+15. cd - change directory, what Linux command is used to change current directory to parent directory
+
+	a.cd -
+	b.cd ..
+	c.cd ~
+	d.cd..
+
+Correct answer: b
