@@ -114,3 +114,11 @@ Correct answer: a
 
 Correct answer: c
 
+14. To display hostname, what linux command is used?
+
+	a.Hostname
+	b.Host
+	c.Name
+	d.hostname
+
+Correct answer: d
