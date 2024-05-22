@@ -131,3 +131,14 @@ Correct answer: d
 	d.cd..
 
 Correct answer: b
+
+16. What linux command is used to switch back to the previous directory?
+
+	a.cd -
+	b.cd ..
+	c.cd ~
+	d.cd --
+
+Correct answer: a
+
+
