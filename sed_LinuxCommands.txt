@@ -15,6 +15,12 @@ ex: cat sedView.txt
  	d.sed -d '3,7p' sedView.txt
 
 Correct answer: b
+Output: 
+3.When the going gets tough, 
+4.put one foot 
+5.in front of the other and 
+6.just keep going.
+7.Don't give up.
 
 
 
@@ -35,3 +41,58 @@ ex: cat sedView.txt
 	d.sed '1,2n' sedView.txt
 
 Correct answer: b
+Output: 
+3.When the going gets tough, 
+4.put one foot 
+5.in front of the other and 
+6.just keep going.
+7.Don't give up.
+8.
+
+3. To Insert a blank line in files. What 'sed' Linux command is used?                   
+Ex: cat sedSpace.txt 
+1.The only way  
+2.to do great work  
+3.is to love   
+4.what you do. 
+
+	a.sed S sedSpace.txt
+	b.sed B sedSpace.txt
+	c.sed G sedSpace.txt
+	d.sed I sedSpace.txt
+
+Correct answer: c 
+Output:
+1.The only way 
+ 
+2.to do great work  
+
+3.is to love   
+
+4.what you do. 
+
+
+4. To Insert two blank line in files. What 'sed' Linux command is used?                   
+Ex: cat sedSpace.txt 
+1.The only way  
+2.to do great work  
+3.is to love   
+4.what you do. 
+
+	a.sed 'S;S' sedSpace.txt
+	b.sed 'B;B' sedSpace.txt
+	c.sed 'G;G' sedSpace.txt
+	d.sed 'I;I' sedSpace.txt
+
+Correct answer: c
+Output:
+1.The only way 
+
+ 
+2.to do great work  
+
+
+3.is to love  
+
+ 
+4.what you do. 
