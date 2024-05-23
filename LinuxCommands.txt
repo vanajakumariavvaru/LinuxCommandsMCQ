@@ -148,6 +148,15 @@ Correct answer: a
 	c.Cal
 	d.Calc
 
-Correct answer: b 
+Correct answer: b
+
+18. What Linux command is used to display the file type?
+
+	a.file
+	b.book
+	c.folder
+	d.type
+
+Correct answer: a
 
 
