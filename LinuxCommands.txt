@@ -141,3 +141,13 @@ Correct answer: b
 
 Correct answer: a 
 
+17. What linux command displays the current month command?
+
+	a.C
+	b.cal
+	c.Cal
+	d.Calc
+
+Correct answer: b 
+
+
