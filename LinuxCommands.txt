@@ -159,4 +159,36 @@ Correct answer: b
 
 Correct answer: a
 
+19. To display just file type in brief mode, What linux command is used? Ex: filetype can be of txt/img/pdf/class/java/html/json .. etc
+
+	a.$ file -b Hello.txt
+	  $ file -b Hello.class
+	  $ file -b Hello.java
+
+	b.$ file -c Hello.txt
+	  $ file -c Hello.class
+	  $ file -c Hello.java
+
+	c.$ file -f Hello.txt
+	  $ file -f Hello.class
+	  $ file -f Hello.java
+
+	d.$ file -l Hello.txt
+	  $ file -l Hello.class
+	  $ file -l Hello.java
+
+Correct answer: a
+Output: 
+ASCII text
+compiled Java class data, version 55.0 (Java SE 11)
+C++ source, ASCII text
+
+20. To display all files’s file type, What Linux command is used?
+
+	a.$ file *
+	b.$ file ^
+	c.$ file #
+	d.$ file @
+
+Correct answer: a
 
