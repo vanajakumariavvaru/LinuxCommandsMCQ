@@ -192,3 +192,74 @@ C++ source, ASCII text
 
 Correct answer: a
 
+21. Which character is known as root directory?
+
+	a.$ 
+	b.&
+	c./
+	d.*
+
+Correct answer: c
+
+22. Linux command to create a directory?
+
+	a.MKdir 
+	b.mkdir
+	c.mkd
+	d.mk
+
+Correct answer: b
+
+23. What command clears your contents of terminal display?
+
+	a.clr
+	b.clear
+	c.Clear
+	d.clrscr
+
+Correct answer: b	
+
+24. What Linux command is used to transfer files or directories to different directory?
+
+	a.move
+	b.export
+	c.mv
+	d.replace
+
+Correct answer: c
+
+25. What Linux command allows to change his/her own password?
+
+	a.pwd
+	b.password
+	c.passwd
+	d.pass
+
+Correct answer: c
+
+26. What Linux command can be used to create a file "test.txt"
+
+	a.create "test.txt"
+	b.build "test.txt"
+	c.touch "test.txt"
+	d.mkfile "test.txt"
+
+Correct answer: c
+
+27. What key combinations allows to clear the terminal in Linux shell?
+
+	a.Ctrl + E
+	b.Ctrl + A
+	c.Ctrl + L
+	d.Ctrl + T
+
+Correct answer: c
+
+28. What is the topmost level directory(/) in Linux called?
+
+	a.home
+	b.head
+	c.root
+	d.trunck
+
+Correct answer: c
