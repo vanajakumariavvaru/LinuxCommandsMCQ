@@ -263,3 +263,22 @@ Correct answer: c
 	d.trunck
 
 Correct answer: c
+
+29. I am lost and don't know where i am, what Linux command is used to find where i am in the system?
+
+	a.cd ..
+	b.pwd
+	c.cd --
+	d.cd ~
+	e.pmd
+
+Correct answer: b
+
+30. What linux command will dispaly current month calendar?
+
+	a.cd ..
+	b.pwd
+	c.cd --
+	d.cd ~
+
+Correct answer: b
