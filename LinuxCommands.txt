@@ -277,8 +277,8 @@ Correct answer: b
 30. Which 2 Linux commands is to show last 10 entries from the list of commands used since the start of the terminal session?
 
 	a.list 10 or list | tail
-	b.history 10 or history |10
-	c.history 10 or history |tail
+	b.history 10 or history | 10
+	c.history 10 or history | tail
 	d.list 10 or list | 10
 
 Correct answer: c
@@ -291,3 +291,21 @@ Correct answer: c
 	d.head
 
 Correct answer: c
+
+32. To show first 10 entries from the list of commands used since the start of terminal session?
+
+	a.history start
+	b.history | head 
+	c.history head 10
+	d.history | head 10
+
+Correct answer: b
+
+33. What command is used to remove a particular command(6th command since the start of the terminal session) from history.
+
+	a.history -d 6
+	b.history | head 
+	c.history head 10
+	d.history | head 10
+
+Correct answer: b
