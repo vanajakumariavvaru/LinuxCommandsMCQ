@@ -274,11 +274,20 @@ Correct answer: c
 
 Correct answer: b
 
-30. What linux command will dispaly current month calendar?
+30. Which 2 Linux commands is to show last 10 entries from the list of commands used since the start of the terminal session?
 
-	a.cd ..
-	b.pwd
-	c.cd --
-	d.cd ~
+	a.list 10 or list | tail
+	b.history 10 or history |10
+	c.history 10 or history |tail
+	d.list 10 or list | 10
 
-Correct answer: b
+Correct answer: c
+
+31. To display the list of Linux commands used since the start of the terminal session?
+
+	a.ls
+	b.list 
+	c.history 
+	d.head
+
+Correct answer: c
