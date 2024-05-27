@@ -328,5 +328,20 @@ Correct answer: a
 
 Correct answer: b
 
+36. To display Manual page for a specific command (say ' ls ' list command)?
 
+	a.manual ls
+	b.man -ls
+	c.manual -ls
+	d.man ls
 
+Correct answer: d
+
+37. To display line of text "Reincarnation"
+
+	a.display "Reincarnation"
+	b.show "Reincarnation"
+	c.echo "Reincarnation"
+	d.print "Reincarnation"
+
+Correct answer: c
