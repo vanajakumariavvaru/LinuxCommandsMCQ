@@ -309,3 +309,24 @@ Correct answer: b
 	d.history | head 10
 
 Correct answer: b
+
+34. To display all files filetypes in a particular directory, What Linux command is used? "sample is directory name".
+
+	a.file /sample/*
+	b.file /sample/@
+	c.file /sample/$
+	d.file /sample/^
+
+Correct answer: a
+
+35. To display the file type of files in specific range, What Linux command is used? File range is 'a' to 'i'?
+
+	a.file [a -I]$
+	b.file [a -i]*
+	c.file [a -I]^
+	d.file [a -I]&
+
+Correct answer: b
+
+
+
