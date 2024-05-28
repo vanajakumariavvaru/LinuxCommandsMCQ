@@ -345,3 +345,13 @@ Correct answer: d
 	d.print "Reincarnation"
 
 Correct answer: c
+
+38. How to view mime type of files in a directory using 'file' Linux command, 'sample' is directory name. 
+
+	a.file -i /sample/* or file --mime /sample/*
+	b.file -m /sample/* or file --mime /sample/*
+	c.file -t /sample/* or file --mime /sample/*
+	d.file -d /sample/* or file --mime /sample/*
+
+Correct answer: a
+
