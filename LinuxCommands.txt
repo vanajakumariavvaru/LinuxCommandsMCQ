@@ -355,3 +355,39 @@ Correct answer: c
 
 Correct answer: a
 
+39. What Linux command is used to exit from the shell?
+
+	a.end
+	b.quit
+	c.exit
+	d.break
+
+Correct answer: c
+
+40. By pressing_________ will also quit the shell.
+
+	a.CTRL + A
+	b.CTRL + L
+	c.CTRL + Q
+	d.CTRL + D
+
+Correct answer: d
+
+41. The file or directory starts with period . And .. is called
+
+	a.Regular files
+	b.Hidden
+	c.link
+	d.Socket
+
+Correct answer: b
+
+42. To show hidden files on Linux using ls
+
+	a.ls -a
+	b.ls -A
+	c.ls --all
+	d.ls --almost-all
+        e.All of the above
+
+Correct answer: e
