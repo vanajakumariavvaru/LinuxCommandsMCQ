@@ -391,3 +391,22 @@ Correct answer: b
         e.All of the above
 
 Correct answer: e
+
+43. To view file type inside compressed files using 'file' Linux command? Compressed file name 'Rafah.tar.xz'
+
+	a.$ file -s Rafah.tar.xz
+	b.$ file -t Rafah.tar.xz
+	c.$ file -c Rafah.tar.xz
+	d.$ file -z Rafah.tar.xz
+
+Correct answer: d
+Output: Rafah.tar.xz: POSIX tar archive (XZ compressed data, checksum CRC64)
+
+44. Which Linux command is used to change file Timestamp?
+
+	a.$ cat
+	b.$ echo
+	c.$ touch
+	d.$ file
+
+Correct answer: c
