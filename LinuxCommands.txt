@@ -410,3 +410,21 @@ Output: Rafah.tar.xz: POSIX tar archive (XZ compressed data, checksum CRC64)
 	d.$ file
 
 Correct answer: c
+
+45. To Create an Empty File, What Linux command is used? Filename - 'Rafah.txt'
+
+	a.$ cat Rafah.txt
+	b.$ touch Rafah.txt
+	c.$ echo "Rafah.txt"
+	d.$ file Rafah.txt
+
+Correct answer: b
+
+46. To Avoid Creating New File, What Linux command is used? Filename - 'Rafah.txt'
+
+	a.$ touch -a Rafah.txt
+	b.$ touch -b Rafah.txt
+	c.$ touch -c Rafah.txt
+	d.$ touch -d Rafah.txt
+
+Correct answer: c
