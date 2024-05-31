@@ -466,3 +466,12 @@ Correct answer: b
 	b.False
 
 Correct answer: a
+
+51. What Linux command is used to print the kernel name?
+
+	a.uname -s 
+	b.kernel
+	c.print kernel
+	d.uname -l 
+
+Correct answer: a
