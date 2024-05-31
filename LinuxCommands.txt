@@ -428,3 +428,25 @@ Correct answer: b
 	d.$ touch -d Rafah.txt
 
 Correct answer: c
+
+47. To change or update the last access or modification times of a file "Rafah", What Linux command is used. 
+
+	a.$ touch -a Rafah
+	b.$ touch -m Rafah
+	c.$ touch -c Rafah
+	d.$ touch -d Rafah
+
+Correct answer: a
+Output: Before the change of Access time : -rw-rw-r--  1 kumari kumari 0 May 30 21:01 Rafah
+After the change of access time: Access: 2024-05-30 21:02:37.689876005 -0500
+
+48. To Change File Modification Time of a file "Rafah", What Linux command is used?
+
+	a.$ touch -a Rafah
+	b.$ touch -m Rafah
+	c.$ touch -c Rafah
+	d.$ touch -d Rafah
+
+Correct answer: b
+Output: Before the change of Modification time : Modify: 2024-05-30 21:01:32.809038214 -0500
+After the change of Modification time time: Modify: 2024-05-30 21:06:10.830727294 -0500
