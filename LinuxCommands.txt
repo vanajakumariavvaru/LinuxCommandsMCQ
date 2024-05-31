@@ -450,3 +450,19 @@ After the change of access time: Access: 2024-05-30 21:02:37.689876005 -0500
 Correct answer: b
 Output: Before the change of Modification time : Modify: 2024-05-30 21:01:32.809038214 -0500
 After the change of Modification time time: Modify: 2024-05-30 21:06:10.830727294 -0500
+
+49. To list the files in long format (more information about files)
+
+	a.ls -long
+	b.ls -l
+	c.ls -li
+	d.ls -list
+
+Correct answer: b
+
+50 To list all the files in long format including hidden files, ls -la or ls -l -a is used
+
+	a.True
+	b.False
+
+Correct answer: a
