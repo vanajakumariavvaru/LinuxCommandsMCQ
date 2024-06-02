@@ -475,3 +475,21 @@ Correct answer: a
 	d.uname -l 
 
 Correct answer: a
+
+52. To print the Processor type, which command is used?
+
+	a.uname -a 
+	b.uname -l 
+	c.uname -s 
+	d.uname -p 
+
+Correct answer: d
+
+53. To print the operating system, which command is used?
+
+	a.uname -i 
+	b.uname -s 
+	c.uname -o 
+	d.uname -m 
+
+Correct answer: c
