@@ -520,3 +520,41 @@ Correct answer: c
 	d.wc -m Sample.txt
 
 Correct answer: b
+
+57. To display number of words of a file(Sample.txt), what command is used?
+
+	a.wc -w Sample.txt
+	b.wc -l Sample.txt
+	c.wc -c Sample.txt 
+	d.wc -m Sample.txt
+
+Correct answer: a
+
+58. What Linux command is used to count the number of bytes and characters?
+
+	a.wc -n Sample.txt
+	b.wc -l Sample.txt
+	c.wc -c Sample.txt or wc -m Sample.txt
+	d.wc -b Sample.txt
+
+Correct answer: c
+
+59. What is the command to serach for the specific text within files?
+
+	a.locate
+	b.find
+	c.grep
+	d.fetch
+
+Correct answer: c
+
+60. What Linux command is used to locate a file by its name or extension?
+
+	a.locate
+	b.find
+	c.list
+	d.All of the above
+
+Correct answer: d
+
+
