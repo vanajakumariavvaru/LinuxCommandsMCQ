@@ -519,4 +519,4 @@ Correct answer: c
 	c.wc -c Sample.txt 
 	d.wc -m Sample.txt
 
-Correct answer: l
+Correct answer: b
