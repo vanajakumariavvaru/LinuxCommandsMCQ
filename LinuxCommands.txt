@@ -493,3 +493,21 @@ Correct answer: d
 	d.uname -m 
 
 Correct answer: c
+
+54. To print the network hostname, which command is used?
+
+	a.uname -h 
+	b.uname -i 
+	c.uname -n 
+	d.uname -l 
+
+Correct answer: c
+
+55. What Linux command will display number of lines, number of words, and numnber of bytes of a file (Sample.txt)?
+
+	a.count Sample.txt 
+	b.words Sample.txt
+	c.wc Sample.txt 
+	d.w Sample.txt 
+
+Correct answer: c
