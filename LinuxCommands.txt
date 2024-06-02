@@ -509,5 +509,14 @@ Correct answer: c
 	b.words Sample.txt
 	c.wc Sample.txt 
 	d.w Sample.txt 
-
+	
 Correct answer: c
+
+56. What Linux command is used to count the number of lines of a file "Sample.txt"
+
+	a.wc -a Sample.txt
+	b.wc -l Sample.txt
+	c.wc -c Sample.txt 
+	d.wc -m Sample.txt
+
+Correct answer: l
