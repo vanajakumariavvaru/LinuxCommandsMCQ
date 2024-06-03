@@ -557,4 +557,15 @@ Correct answer: c
 
 Correct answer: d
 
+61. To Use the time stamp of a file "Hi.txt " to "Hello.txt". What Linux comman dis used?
+
+	a.$ touch -r Hello.txt Hi.txt
+	b.$ touch -a Hello.txt Hi.txt
+	c.$ touch -t Hello.txt Hi.txt
+	d.$ touch -m Hello.txt Hi.txt
+
+Correct answer: a
+Output: -rw-rw-r--  1 kumari kumari       50 Apr  4 22:01 sample.txt
+-rw-rw-r--  1 kumari kumari        0 Apr  4 22:01 Rafah.txt
+
 
