@@ -557,7 +557,7 @@ Correct answer: c
 
 Correct answer: d
 
-61. To Use the time stamp of a file "Hi.txt " to "Hello.txt". What Linux comman dis used?
+61. To Use the time stamp of a file "Hi.txt " to "Hello.txt". What Linux command is used?
 
 	a.$ touch -r Hello.txt Hi.txt
 	b.$ touch -a Hello.txt Hi.txt
@@ -568,4 +568,39 @@ Correct answer: a
 Output: -rw-rw-r--  1 kumari kumari       50 Apr  4 22:01 sample.txt
 -rw-rw-r--  1 kumari kumari        0 Apr  4 22:01 Rafah.txt
 
+62. An alternative of find command?
+
+	a.whereis
+	b.locate
+	c.gps
+	d.Locate
+
+Correct answer: b
+
+63. Which command is used to copy files in Linux?
+
+	a.cp
+	b.mv
+	c.rm
+	d.ls
+
+Correct answer: a
+
+64. How do you enter insert mode in Vim(Text editor)?
+
+	a.Insert 'v'
+	b.Insert 'i'
+	c.Insert 'm'
+	d.Insert 'e'
+
+Correct answer: b
+
+65. Which command in Vim save changes and exits the editor?
+
+	a.:w
+	b.:q!
+	c.:wq
+	d.exit
+
+Correct answer: c
 
