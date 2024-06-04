@@ -604,3 +604,47 @@ Correct answer: b
 
 Correct answer: c
 
+66. To Explicitly Set the Access and Modification times of a file "Results", what Linux command is used? ex: Access and modification time  is June 6th 2024?
+
+	a.touch -c -t 06061800 Results
+	b.touch -a -m 06061800 Results
+	c.touch -m -a 06061800 Results
+	d.touch -a -t 06061800 Results
+
+Correct answer: a
+
+67. Which command in Vim (Text editor) will save the file but do not exit?
+
+	a.[esc]:+:q!
+	b.[esc]:+:w
+	c.[esc]:+:wq
+	d.[esc]:+:exit
+
+Correct answer: b
+
+68. Which command in Vim(Text editor) will quit from the file witout saving?
+
+	a.[esc]:+:q!
+	b.[esc]:+:w
+	c.[esc]:+:x
+	d.[esc]:+:wq
+
+Correct answer: a
+
+69. Which symbol represents the user's home directory?
+
+	a.~
+	b./
+	c.@
+	d.#
+
+Correct answer: a
+
+70. The "sudo" command stands for?
+
+	a.su
+	b.super user does
+	c.super user do
+	d.super do
+
+Correct answer: c
