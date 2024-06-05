@@ -667,3 +667,14 @@ Correct answer: d
 
 Correct answer: 3
 Root user, System user, Normal/Regular user
+
+73. To reverse lines characterwise? What Linux command is used? Ex: cat Gratitude.txt " !!!emitefil a tsal dluoc ti meht rof tub, yas ot sdnoces ekat yam ti meht llet , enoemos ni lufituaeb gnihtemos ees uoy nehw "
+
+	a.char Gratitude.txt
+	b.rev Gratitude.txt
+	c.character Gratitude.txt
+	d.reverse Gratitude.txt
+
+Correct answer: b
+Output: when you see something beautiful in someone , tell them it may take seconds to say ,but for them it could last a lifetime!!!
+
