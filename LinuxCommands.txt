@@ -711,3 +711,41 @@ Correct answer: b
 	d.var
 
 Correct answer: b
+
+78. What Linux command is used to sort a file(File.txt), arranging records in a particular order?
+
+	a.sort File.txt
+	b.sorting File.txt
+	c.arrange File.txt
+	d.order File.txt
+
+Correct answer: a
+
+79. What Linux command is used to sort multiple files(File1.txt, File2.txt) arranging the orders in a particular order?
+
+	a.sort File1.txt, File2.txt
+	b.sorting File1.txt, File2.txt
+	c.arrange File.1txt, File2.txt
+	d.order File1.txt, File2.txt
+
+Correct answer: a
+
+80. What  Linux command is used to sort the file(Festivals.txt) in reverse order? cat Festivals.txt 
+Sankranti Holi  Ugadi  Ramadan  Tamil New Year  Ugadi
+
+	a.sort -c Festivals.txt 
+	b.sort -u Festivals.txt 
+	c.sort -m Festivals.txt 
+	d.sort -r Festivals.txt 
+
+Correct answer: d
+
+81. What  Linux command is used to sort the file(Festivals.txt) in reverse order? cat Festivals.txt 
+Sankranti Holi  Ugadi  Ramadan  Tamil New Year  Ugadi
+
+	a.sort -c Festivals.txt 
+	b.sort -u Festivals.txt 
+	c.sort -m Festivals.txt 
+	d.sort -r Festivals.txt 
+
+Correct answer: b
