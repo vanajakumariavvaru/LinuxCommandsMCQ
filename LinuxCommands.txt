@@ -693,3 +693,21 @@ Correct answer:a
 	d.Free Software Foundation
 
 Correct answer: d
+
+76. What linux command is used to remove sections from each line of files?
+
+	a.remove
+	b.cut
+	c.copy
+	d.mv
+
+Correct answer: b
+
+77. To print out a list of all environment variables(Variables contain values necessary to set up a shell environment), what command is used?
+
+	a.environment
+	b.env
+	c.variable
+	d.var
+
+Correct answer: b
