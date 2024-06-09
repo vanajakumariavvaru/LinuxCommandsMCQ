@@ -678,3 +678,18 @@ Root user, System user, Normal/Regular user
 Correct answer: b
 Output: when you see something beautiful in someone , tell them it may take seconds to say ,but for them it could last a lifetime!!!
 
+74. The directory is a type of file?
+
+	a.Yes
+	b.No
+
+Correct answer:a
+
+75. What does FSF stands for?
+
+	a.File Server First
+	b.First Server First
+	c.Free Software File
+	d.Free Software Foundation
+
+Correct answer: d
