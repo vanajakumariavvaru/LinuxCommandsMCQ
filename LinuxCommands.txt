@@ -777,3 +777,22 @@ Correct answer: c
 	d.uniq -d UniqueElements.txt
 
 Correct answer: b
+
+85. What uniq(filter out repeated lines)Linux command is used to prefix lines by the number of occurrences of a file" UniqueElements.txt"? Java Java Java DataBase DataBase DataBase React React React SpringBoot SpringBoot SpringBoot Aws AWS AWS AWS
+
+	a.uniq -o UniqueElements.txt
+	b.uniq -p UniqueElements.txt 
+	c.uniq -c UniqueElements.txt
+	d.uniq -d UniqueElements.txt
+
+Correct answer: c 
+
+86. What Linux command is used to display user's login name?
+
+	a.logname
+	b.whoami 
+	c.who
+	d.w
+	e.All of the above
+
+Correct answer: e 
