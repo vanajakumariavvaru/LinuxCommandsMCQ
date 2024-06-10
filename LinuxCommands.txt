@@ -749,3 +749,12 @@ Sankranti Holi  Ugadi  Ramadan  Tamil New Year  Ugadi
 	d.sort -r Festivals.txt 
 
 Correct answer: b
+
+82. What Linux command read from standard input and write to standard output and files?
+
+	a.cat
+	b.tee 
+	c.tac
+	d.None of the above 
+
+Correct answer: b
