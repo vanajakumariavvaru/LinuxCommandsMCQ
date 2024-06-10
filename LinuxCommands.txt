@@ -758,3 +758,22 @@ Correct answer: b
 	d.None of the above 
 
 Correct answer: b
+
+83. What Linux command is used to filter out repeated lines in a file "UniqueElements.txt" 
+Java Java  Java  DataBase  DataBase  DataBase  React  React  React  SpringBoot  SpringBoot  SpringBoot  Aws  AWS  AWS  AWS
+
+	a.filter UniqueElements.txt
+	b.unique UniqueElements.txt 
+	c.uniq UniqueElements.txt
+	d.repeat UniqueElements.txt
+
+Correct answer: c
+
+84. What uniq(filter out repeated lines) Linux command is used to print only unique lines of a file "UniqueElements.txt" ? Java Java Java  DataBase  DataBase  DataBase  React  React  React  SpringBoot  SpringBoot  SpringBoot  Aws  AWS  AWS  AWS
+
+	a.uniq -f UniqueElements.txt
+	b.uniq -u UniqueElements.txt 
+	c.uniq -c UniqueElements.txt
+	d.uniq -d UniqueElements.txt
+
+Correct answer: b
