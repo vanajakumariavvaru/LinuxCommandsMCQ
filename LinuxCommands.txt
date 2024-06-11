@@ -888,7 +888,7 @@ Correct answer: a
 
 Correct answer: a
 
-95. ' nl ' Linux command used to display a file with line numbers, what linux command is used to to add a string after line numbers "greetings.txt" 
+96. ' nl ' Linux command used to display a file with line numbers, what linux command is used to to add a string after line numbers "greetings.txt" 
 1 - Hi                
 2 - Everyone,  
 3 - Good Morning!
@@ -897,5 +897,40 @@ Correct answer: a
 	b.nl -s "-" greetings.txt
 	c.nl -u "-" greetings.txt
 	d.nl -c "-" greetings.txt
+
+Correct answer: b
+
+97. What Linux command is used to print files in reverse?  ex:" poster.txt "  
+Weekly meet, Monthly meet, Book club, ReactJs, ReactJs, Book club, Monthly meet, Weekly meet.
+
+	a.cat poster.txt
+	b.tac poster.txt
+	c.rev poster.txt
+	d.reverse poster.txt
+
+Correct answer: b
+
+98. What Linux command is used to show a listing of last logged in users?
+
+	a.logname
+	b.last
+	c.loglast
+	d.log
+
+Correct answer: b
+
+99. " last " and " lastlog " Linux command displays information regarding user logins and currently logged in user. " lastlog " command will indiacate users never logged in details also.
+
+	a.True
+	b.False
+
+Correct answer:a
+
+100. What Linux command is used to translate and/or delete characters from stdin input and writes to stdout?
+
+	a.rt
+	b.tr
+	c.de
+	d.in
 
 Correct answer: b
