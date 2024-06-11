@@ -796,3 +796,21 @@ Correct answer: c
 	e.All of the above
 
 Correct answer: e 
+
+87. tee - read from standard input and write to standard output and files. To append a line of text "Good Morning!" to a file "Demo .txt". What Linux command is used?
+
+	a.echo " Good Morning! " | tee Demo.txt
+	b.echo " Good Morning! " @ tee Demo.txt
+	c.echo " Good Morning! " $ tee Demo.txt
+	d.echo " Good Morning! " & tee Demo.txt
+
+Correct answer: a
+
+88. tee - read from standard input and write to standard output and files. To append a line of text "Good Morning!" to Multiple files "Demo .txt" , "Demo1.txt". What Linux command is used?
+
+	a.echo " Good Morning! " | tee Demo.txt Demo1.txt
+	b.echo " Good Morning! " @ tee Demo.txt Demo1.txt
+	c.echo " Good Morning! " $ tee Demo.txt Demo1.txt
+	d.echo " Good Morning! " & tee Demo.txt Demo1.txt
+
+Correct answer: a
