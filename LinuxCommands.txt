@@ -934,3 +934,13 @@ Correct answer:a
 	d.in
 
 Correct answer: b
+
+101. Which is a stream editor for filtering and transforming text?
+
+	a.des
+	b.sed
+	c.str
+	d.fil
+
+Correct answer: b
+
