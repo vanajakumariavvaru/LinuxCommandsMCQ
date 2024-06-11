@@ -841,3 +841,61 @@ Correct answer: b
 	d.fmt -a SummerCool.txt
 
 Correct answer: c
+
+92. What Linux command is used for numbering lines, accepting input either from a file or from STDIN(Standard Input stream)?
+
+	a.ln
+	b.nl
+	c.filenl
+	d.numberline
+
+Correct answer: b
+
+93. ' nl ' Linux command used to display a file with line numbers, what linux command is used to display all line numbers including empty lines. "greetings.txt"
+1 Hi  
+2 Everyone,  
+3 Good Morning!  
+4
+
+	a.nl -b a greetings.txt
+	b.nl -e a greetings.txt
+	c.nl -l a greetings.txt
+	d.nl -h a greetings.txt
+
+Correct answer: a
+
+94. ' nl ' Linux command used to display a file with line numbers, what linux command is used to make line number increment at each line. ex: Increment each line by 2. "greetings.txt"                      
+1 Hi   
+3 Everyone,  
+5 Good Morning!
+
+	a.nl -i 2 greetings.txt
+	b.nl -b 2 greetings.txt
+	c.nl -a 2 greetings.txt
+	d.nl -l 2 greetings.txt
+
+Correct answer: a
+
+95.' nl ' Linux command used to display a file with line numbers, what linux command is used to make starting line number different.ex: Line number starts from 10 "greetings.txt"  
+10 Hi                                  
+11 Everyone,  
+12 Good Morning!
+
+	a.nl -v 10 greetings.txt
+	b.nl -s 10 greetings.txt
+	c.nl -u 10 greetings.txt
+	d.nl -b 10 greetings.txt
+
+Correct answer: a
+
+95. ' nl ' Linux command used to display a file with line numbers, what linux command is used to to add a string after line numbers "greetings.txt" 
+1 - Hi                
+2 - Everyone,  
+3 - Good Morning!
+
+	a.nl -v "-" greetings.txt
+	b.nl -s "-" greetings.txt
+	c.nl -u "-" greetings.txt
+	d.nl -c "-" greetings.txt
+
+Correct answer: b
