@@ -814,3 +814,30 @@ Correct answer: a
 	d.echo " Good Morning! " & tee Demo.txt Demo1.txt
 
 Correct answer: a
+
+89. What linux command used format all the words in a single line present in the given file " Summer.txt" Hi Welcome to Summer, Mango season!
+
+	a.format Summer.txt
+	b.fmt Summer.txt
+	c.line Summer.txt
+	d.lineformat Summer.txt
+
+Correct answer: b
+
+90. 'fmt' Linux command is text formatter, reformats each paragraph in the files. what linus command makes one space between space & 2 spaces after sentence. "SummerCool.txt" Hi, Welcome to Summer.Stay cool. Be sure to stay hydrated.
+
+	a.fmt -f SummerCool.txt
+	b.fmt -u SummerCool.txt
+	c.fmt -s SummerCool.txt
+	d.fmt -a SummerCool.txt
+
+Correct answer: b
+
+91. 'fmt' Linux command is text formatter, reformats each paragraph in the files. what linus command is used to split long lines, but don’t refill them? "SummerCool.txt" Hi, Welcome to Summer.Stay cool. Be sure to stay hydrated.
+
+	a.fmt -f SummerCool.txt
+	b.fmt -u SummerCool.txt
+	c.fmt -s SummerCool.txt
+	d.fmt -a SummerCool.txt
+
+Correct answer: c
