@@ -944,3 +944,11 @@ Correct answer: b
 
 Correct answer: b
 
+102. tee - read from standard input and write to standard output and file. To redirect output of one command to another command. What Linux Command is used? Example.txt " Good Morning Everyone!"
+
+	a.$ cat Example.txt | tee Demo.txt | grep "Everyone!"
+	b.$ cat Example.txt | tee Demo.txt @ grep "Everyone!"
+	c.$ cat Demo.txt | tee Example.txt | grep "Everyone!"
+	d.$ cat Example.txt $ tee Demo.txt | grep "Everyone!"
+
+Correct answer: a
