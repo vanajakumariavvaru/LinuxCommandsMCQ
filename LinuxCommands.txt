@@ -971,3 +971,21 @@ Live life to express, not to impress"  What Linux command is used?
 	d.fmt "for" cause.txt
 
 Correct answer: c
+
+105. 'tr' Linux command is used to translate and/or delete characters from stdin input and writes to stdout. To change all lowercase letters in the text to uppercase and viceversa Ex- HeatWave.txt "Stay cool, Stay Hydrated, Prevent Heat Illness, Stay Informed"
+
+	a.cat HeatWave.txt | tr [:lower:] [:upper:]
+	b.cat HeatWave.txt | tr [:low:] [:up:]
+	c.cat HeatWave.txt | tr [:l:] [:u:]
+	d.cat HeatWave.txt | tr [:-l:] [:-u:]
+
+Correct answer: a
+
+106.'tr' Linux command is used to change all lowercase letters in the text to uppercase and viceversa  command. To save the results written to stdout in a file "PrecautionsHeatWave.txt"
+
+	a.cat HeatWave.txt | tr [:lower:] [:upper:] > PrecautionsHeatWave.txt
+	b.cat HeatWave.txt | tr [:low:] [:up:] > PrecautionsHeatWave.txt
+	c.cat HeatWave.txt | tr [:l:] [:u:] > PrecautionsHeatWave.txt
+	d.cat HeatWave.txt | tr [:-l:] [:-u:] > PrecautionsHeatWave.txt
+
+Correct answer: a
