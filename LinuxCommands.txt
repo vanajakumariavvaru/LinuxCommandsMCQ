@@ -962,8 +962,12 @@ Correct answer: a
 
 Correct answer: c
 
-104. To search for a String "for" in a single file? Ex: cat cause.txt "Work for a cause, Not for applause.
-Live life to express, not to impress"  What Linux command is used?
+104. To search for a String "for" in a single file? Ex: cat cause.txt 
+"Work for a cause,
+Not for applause.
+Live life to express, 
+not to impress" 
+What Linux command is used?
 
 	a.sed "for" cause.txt
 	b.tr "for" cause.txt
@@ -971,6 +975,9 @@ Live life to express, not to impress"  What Linux command is used?
 	d.fmt "for" cause.txt
 
 Correct answer: c
+Output: 
+Work for a cause,
+Not for applause.
 
 105. 'tr' Linux command is used to translate and/or delete characters from stdin input and writes to stdout. To change all lowercase letters in the text to uppercase and viceversa Ex- HeatWave.txt "Stay cool, Stay Hydrated, Prevent Heat Illness, Stay Informed"
 
