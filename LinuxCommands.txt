@@ -952,3 +952,22 @@ Correct answer: b
 	d.$ cat Example.txt $ tee Demo.txt | grep "Everyone!"
 
 Correct answer: a
+
+103. What Linux commnads prints lines that match patterns?
+
+	a.sed
+	b.tr
+	c.grep
+	d.fmt
+
+Correct answer: c
+
+104. To search for a String "for" in a single file? Ex: cat cause.txt "Work for a cause, Not for applause.
+Live life to express, not to impress"  What Linux command is used?
+
+	a.sed "for" cause.txt
+	b.tr "for" cause.txt
+	c.grep "for" cause.txt
+	d.fmt "for" cause.txt
+
+Correct answer: c
