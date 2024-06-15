@@ -1017,3 +1017,23 @@ Ex: cat Express.txt "1.For 2. Far"
 	d.$ grep -a "for" Express.txt
 
 Correct answer: a
+
+109. tr - is used to translate and/or delete characters from stdin input and writes to stdout. To delete characters and remove spaces. ex- cat Greeting.txt "G  ood Mor ning"
+
+	a.cat Greeting.txt | tr -d ' '
+	b.cat Greeting.txt | tr -s ' '
+	c.cat Greeting.txt | tr -c ' '
+	d.cat Greeting.txt | tr -r ' '
+
+Correct answer: a
+Output: GoodMorning
+
+110. tr - is used to translate and/or delete characters from stdin input and writes to stdout. To remove repeated characters in a sequence. ex- cat Greeting.txt "Good Morning!!!"
+
+	a.cat Greeting.txt | tr -d ' '
+	b.cat Greeting.txt | tr -s ' '
+	c.cat Greeting.txt | tr -c ' '
+	d.cat Greeting.txt | tr -r ' '
+
+Correct answer: b
+Output: GoodMorning!
