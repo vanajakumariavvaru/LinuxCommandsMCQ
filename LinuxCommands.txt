@@ -1037,3 +1037,40 @@ Output: GoodMorning
 
 Correct answer: b
 Output: GoodMorning!
+
+111. tr - is used to translate and/or delete characters from stdin input and writes to stdout. To remove all the non-digit characters? ex:cat ContactNumber.txt "My phone number is 123456789"
+
+	a.cat ContactNumber.txt | tr -cd[:digit:]
+	b.cat ContactNumber.txt | tr -l[:digit:]
+	c.cat ContactNumber.txt | tr -c[:digit:]
+	d.cat ContactNumber.txt | tr -a[:digit:]
+
+Correct answer: a
+
+112. tr - is used to translate and/or delete characters from stdin input and writes to stdout. To break a single line of words (sentence) into multiple lines.
+
+	a.$ echo "Today is Labour Day" | tr " " "\n"
+	b.$ echo "Today is Labour Day" | tr " " "\l"
+	c.$ echo "Today is Labour Day" | tr " " "\s"
+	d.$ echo "Today is Labour Day" | tr " " "\d"
+
+Correct answer: a
+Output: 
+Today
+is
+Labour
+Day
+
+113. tr - is used to translate and/or delete characters from stdin input and writes to stdout. To translate multiple lines of words into a single sentence. cat LabourDay.txt
+"Today 
+is
+Labour
+Day"
+
+	a.$ tr "\n" " " < LabourDay.txt
+	b.$ tr "\l" " " < LabourDay.txt
+	c.$ tr "\d" " " < LabourDay.txt
+	d.$ tr "\s" " " < LabourDay.txt
+
+Correct answer: a
+Output: Today is Labour Day
