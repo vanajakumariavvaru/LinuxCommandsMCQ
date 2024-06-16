@@ -1074,3 +1074,23 @@ Day"
 
 Correct answer: a
 Output: Today is Labour Day
+
+114. To translate single character using 'tr' Linux command, for instance, "p" into “ 2 ”. cat Parenting.txt  
+"parenting is a lifelong journey that requires patience, dedication, and a willingness to adapt and learn as your child grows and changes"
+
+	a.cat Parenting.txt | tr "p" "2"
+	b.cat Parenting.txt | tr -t "p" "2"
+	c.cat Parenting.txt | tr -c "p" "2"
+	d.cat Parenting.txt | tr -d "p" "2"
+
+Correct answer: a
+Output: 2arenting is a lifelong journey that requires 2atience, dedication, and a willingness to ada2t and learn as your child grows and changes
+
+115. The option -t is useful in truncating a search pattern using tr Linux command.         
+Ex: echo "GNULinux" | tr -t "lix" "LQ"
+
+	a.GNULQnux
+	b.GNULQnuQ
+
+Correct answer: a
+Output: GNULQnux, The character at the end of the set1 is removed. The character 'li' whicg has the same length as set2, replaces set1.
