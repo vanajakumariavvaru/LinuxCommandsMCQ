@@ -1094,3 +1094,12 @@ Ex: echo "GNULinux" | tr -t "lix" "LQ"
 
 Correct answer: a
 Output: GNULQnux, The character at the end of the set1 is removed. The character 'li' whicg has the same length as set2, replaces set1.
+
+116. grep - print lines that match patterns, To check for full words using grep,What linux commands is used? Ex: cat Luxuries.txt "1.Time in Life 2.Slow mornings in life 3.Health in life 4.House full of love 5.A Quiet mind in Life 6. Ability to travel in Life"
+
+	a.$ grep -iw "life" Luxuries.txt
+	b.$ grep -i "life" Luxuries.txt
+	c.$ grep -d "life" Luxuries.txt
+	d.$ grep -u "life" Luxuries.txt
+
+Correct answer: a
