@@ -1140,3 +1140,22 @@ Output:
 	d.paste -c "|" Greetings.txt, Gratitude.txt
 
 Correct answer: d
+
+121. To paste one file at a time instead of in parallel, What Linux command is used?
+
+	a.paste -d Gratitude.txt
+	b.paste -s Gratitude.txt
+	c.paste -p Gratitude.txt
+	d.paste -m Gratitude.txt
+
+Correct answer: b
+
+122. To merge the contents of a file " Gratitude.txt" in a column using 'paste' Linux command
+
+	a.paste - - < Gratitude.txt
+	b.paste - - - < Gratitude.txt
+	c.paste - - - < Gratitude.txt
+	d.All of the above
+
+Correct answer: d
+
