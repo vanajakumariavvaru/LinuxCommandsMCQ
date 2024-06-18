@@ -1103,3 +1103,21 @@ Output: GNULQnux, The character at the end of the set1 is removed. The character
 	d.$ grep -u "life" Luxuries.txt
 
 Correct answer: a
+
+117. To search in all files recursively using grep for a particular word "life". What Linux command is used?
+
+	a.$ grep -r "life" *
+	b.$ grep -i "life" *
+	c.$ grep -d "life" *
+	d.$ grep -u "life" *
+
+Correct answer: a
+
+118. To count the number of matches in a file "Luxuries.txt" using grep, What Linux Command is used?
+
+	a.$ grep -c life Luxuries.txt
+	b.$ grep -i life Luxuries.txt
+	c.$ grep -d life Luxuries.txt
+	d.$ grep -u life Luxuries.txt
+
+Correct answer: a
