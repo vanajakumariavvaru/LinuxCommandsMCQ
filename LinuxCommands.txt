@@ -1121,3 +1121,22 @@ Correct answer: a
 	d.$ grep -u life Luxuries.txt
 
 Correct answer: a
+
+119. To join file horizontally( parallel merging) with default delimiter as tab ex: cat Greetings.txt "Hi everyone Good Morning" . cat heatwave.txt "Stay cool, Stay Hydrated, Prevent Heat Illness, Stay Informed". What Linux command is used?
+
+	a.merge
+	b.join
+	c.paste
+	d.glue
+
+Correct answer: c
+Output: 
+
+120. To merge two files in parallel with delimiter as any character. ex: delimiter " | ", 2 files - Greetings.txt, Gratitude.txt. What linux command is used?
+
+	a.paste -d "|" Greetings.txt, Gratitude.txt
+	b.paste -s "|" Greetings.txt, Gratitude.txt
+	c.paste -m "|" Greetings.txt, Gratitude.txt
+	d.paste -c "|" Greetings.txt, Gratitude.txt
+
+Correct answer: d
