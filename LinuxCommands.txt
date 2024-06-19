@@ -1159,3 +1159,54 @@ Correct answer: b
 
 Correct answer: d
 
+123. grep - print lines that match patterns, To find out how many lines that does not match the pattern, What Linux command is used?   	 
+     Ex: cat Luxuries.txt
+         Time in Life
+	 Slow mornings in life
+	 Health in life
+	 House full of love 
+	 A Quiet mind in Life
+	 Ability to travel in Life
+
+	a.grep -v -c life Luxuries.txt
+	b.grep -d -c life Luxuries.txt
+	c.grep -s -c life Luxuries.txt
+	d.grep -n -c life Luxuries.txt
+
+Correct answer: a
+Output: 4
+
+124. grep - print lines that match patterns, To show line number while displaying the output using grep, What Linux command is used?
+     Ex: cat Luxuries.txt
+         Time in Life
+	 Slow mornings in life
+	 Health in life
+	 House full of love 
+	 A Quiet mind in Life
+	 Ability to travel in Life
+
+	a.grep -n "life" Luxuries.txt
+	b.grep -c "life" Luxuries.txt
+	c.grep -v "life" Luxuries.txt
+	d.grep -s "life" Luxuries.txt
+
+Correct answer: a
+Output: 1:Time in Life
+	5:A Quiet mind in Life
+	6:Ability to travel in Life
+
+125. grep - print lines that match patterns, To display the number of MP3 files, . jpeg, .txt files present in a
+directory
+
+	a.ls /home/kumari/Downloads | grep -c .jpeg
+	b.ls /home/kumari/Documents | grep -n .jpeg
+	c.ls /home/kumari/Documents | grep -s .jpeg
+	d.ls /home/kumari/Documents | grep -v .jpeg
+
+Correct answer: a
+Output: 3
+
+
+
+
+
