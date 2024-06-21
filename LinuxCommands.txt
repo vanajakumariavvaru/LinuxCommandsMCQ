@@ -1206,6 +1206,28 @@ directory
 Correct answer: a
 Output: 3
 
+126. $ ping ILUGC.in ctrl + z
+     $ ping kaniyam.com ctrl + z
+     $ ping kanchilugc.wordpresscom ctrl + z
+     $ ping vglug.com ctrl + z
+     $ ping fshm.org ctrl + z
+     What Linux command is used to list the jobs that you are running in the
+background and in the foreground?
+
+	a.jobs
+	b.occupation
+	c.profession
+	d.work
+
+Correct answer: a
+Output: [1]   Stopped                 ping ILUGc.in
+	[2]   Stopped                 ping kaniyam.com
+	[3]   Stopped                 ping kanchilug.wordpress.com
+	[4]-  Stopped                 ping vglug.org
+	[5]+  Stopped                 ping fshm.org
+
+
+
 
 
 
