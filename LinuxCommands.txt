@@ -1226,8 +1226,102 @@ Output: [1]   Stopped                 ping ILUGc.in
 	[4]-  Stopped                 ping vglug.org
 	[5]+  Stopped                 ping fshm.org
 
+127. To View a range of lines of a document using 'sed' Linux command? 
+     ex: cat sedView.txt 
+     1. 
+     2. 
+     3.When the going gets tough,
+     4.put one foot 
+     5.in front of the other and
+     6.just keep going.
+     7.Don't give up.
+     8.
+
+	 	a.sed -n '3,7d' sedView.txt
+	 	b.sed -n '3,7p' sedView.txt
+	 	c.sed -p '3,7d' sedView.txt
+	 	d.sed -d '3,7p' sedView.txt
+
+Correct answer: b
+Output: 
+3.When the going gets tough, 
+4.put one foot 
+5.in front of the other and 
+6.just keep going.
+7.Don't give up.
+
+128. To View the entire file except a given range using 'sed' Linux command? 
+ex: cat sedView.txt  
+1.
+2.
+3.When the going gets tough,
+4.put one foot 
+5.in front of the other and 
+6.just keep going.
+7.Don't give up. 
+8.
+
+	a.sed '1,2p' sedView.txt
+	b.sed '1,2d' sedView.txt
+	c.sed '1,2c' sedView.txt
+	d.sed '1,2n' sedView.txt
+
+Correct answer: b
+Output: 
+3.When the going gets tough, 
+4.put one foot 
+5.in front of the other and 
+6.just keep going.
+7.Don't give up.
+8.
+
+129. To Insert a blank line in files. What 'sed' Linux command is used?                   
+Ex: cat sedSpace.txt 
+1.The only way  
+2.to do great work  
+3.is to love   
+4.what you do. 
+
+	a.sed S sedSpace.txt
+	b.sed B sedSpace.txt
+	c.sed G sedSpace.txt
+	d.sed I sedSpace.txt
+
+Correct answer: c 
+Output:
+1.The only way 
+
+2.to do great work 
+
+3.is to love   
+
+4.what you do. 
 
 
+130. To Insert two blank line in files. What 'sed' Linux command is used?                   
+Ex: cat sedSpace.txt 
+1.The only way  
+2.to do great work  
+3.is to love   
+4.what you do. 
+
+	a.sed 'S;S' sedSpace.txt
+	b.sed 'B;B' sedSpace.txt
+	c.sed 'G;G' sedSpace.txt
+	d.sed 'I;I' sedSpace.txt
+
+Correct answer: c
+Output:
+1.The only way 
+
+ 
+2.to do great work  
+
+
+3.is to love  
+
+ 
+4.what you do. 
 
 
 
