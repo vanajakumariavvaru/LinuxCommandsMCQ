@@ -1323,6 +1323,41 @@ Output:
  
 4.what you do. 
 
+131. jobs - used to list the jobs that you are running in the background and in the foreground, What Linux command is used to display jobs with process id?
+
+	a.$ jobs -p
+	b.$ jobs -d
+	c.$ jobs -l
+	d.$ jobs -r
+
+Correct answer: c
+Output: $ jobs -l
+[1]  22471 Stopped                 ping google.com
+[2]  22545 Stopped                 ping ILUGc.in
+[3]  22770 Stopped                 ping vglug.org
+[4]  22880 Stopped                 ping kanchilug.wordpress.com
+[5]  22909 Stopped                 ping kaniyam.com
+[6]  23017 Stopped                 ping ilugc.in
+[7]- 23167 Stopped                 ping kaniyam.com
+[8]+ 23307 Stopped                 ping fshm.org
+
+132. jobs - used to list the jobs that you are running in the background and in the foreground, What Linux command is used to display PIDs only
+
+	a.$ jobs -p
+	b.$ jobs -d
+	c.$ jobs -l
+	d.$ jobs -r
+
+Correct answer: a
+Output:$ jobs -p
+22471
+22545
+22770
+22880
+22909
+23017
+23167
+23307
 
 
 
