@@ -1359,5 +1359,24 @@ Output:$ jobs -p
 23167
 23307
 
+133. sed-stream editor for filter and transform text. Basic text substitution using ‘sed’? 
+Ex-cat Gratitude.txt "Gratitude helps you to grow and expand, Gratitude brings joy and laughter into your life and into lives of all those around you" 
 
+	a.$ sed 's/Gratitude/Thankfulness/' Gratitude.txt
+	b.$ sed 'd/Gratitude/Thankfulness/' Gratitude.txt
+	c.$ sed 'c/Gratitude/Thankfulness/' Gratitude.txt
+	d.$ sed 'm/Gratitude/Thankfulness/' Gratitude.txt
 
+Correct answer: a
+Output: Thankfulness helps you to grow and expand, Gratitude brings joy and laughter into your life and into lives of all those around you	
+
+134. Replace all instances of a text in a particular line of a file using ‘g’ option using sed Linux command?.
+Ex-cat Gratitude.txt "Have gratitude for all that you have, and you can be happy exactly as you are!"
+
+	a.$ sed 's/you/YOU/g' Gratitude.txt
+	b.$ sed 'd/Gratitude/Thankfulness/g' Gratitude.txt
+	c.$ sed 'c/Gratitude/Thankfulness/g' Gratitude.txt
+	d.$ sed 'm/Gratitude/Thankfulness/g' Gratitude.txt
+
+Correct answer: a
+Output: Have gratitude for all that YOU have, and YOU can be happy exactly as YOU are!
