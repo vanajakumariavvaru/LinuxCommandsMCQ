@@ -1380,3 +1380,25 @@ Ex-cat Gratitude.txt "Have gratitude for all that you have, and you can be happy
 
 Correct answer: a
 Output: Have gratitude for all that YOU have, and YOU can be happy exactly as YOU are!
+
+135. jobs - used to list the jobs that you are running in the background and in the foreground, What Linux command is used to display only running jobs
+
+	a.$ jobs -p
+	b.$ jobs -d
+	c.$ jobs -l
+	d.$ jobs -r
+
+Correct answer: d
+
+136. jobs - used to list the jobs that you are running in the background and in the foreground, What Linux command is used to make the job to run in foreground
+
+	a.$ jobs -p
+	b.$ fg %1
+	c.$ jobs -l
+	d.$ jobs -r
+
+Correct answer: b
+
+
+
+
