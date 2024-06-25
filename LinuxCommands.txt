@@ -1399,6 +1399,28 @@ Correct answer: d
 
 Correct answer: b
 
+137. sed-stream editor for filter and transform text. To replace words or characters with ignore character case.
+Ex: cat Hi.txt  
+"Hi Everyone, 
+hi GoodMorning! 
+How are you?" Which Linux command is used?
 
+	a.sed 's/Hi/Hey/gi' Hi.txt
+	b.sed 's/Hi/Hey/ig' Hi.txt
+	c.sed 'gi/Hi/Hey/s' Hi.txt
+	d.sed 'ig/Hi/Hey/si' Hi.txt
 
+Correct answer: a
 
+138. sed-stream editor for filter and transform text. To make the occurrences to change from hi to Hey in line 2 
+Ex: cat Hi.txt       
+"Hi Everyone, 
+hi GoodMorning! 
+How are you? " Which Linux command is used?
+
+	a.sed '2 s/Hi/Hey/gi' Hi.txt
+	b.sed '2 s/Hi/Hey/ig' Hi.txt
+	c.sed '2 gi/Hi/Hey/s' Hi.txt
+	d.sed '2 ig/Hi/Hey/si' Hi.txt
+
+Correct answer: a
