@@ -1446,3 +1446,26 @@ PID TTY        TIME CMD
 	c.process -A
 
 Correct answer: a	
+
+141. To Parenthesize first character of each word, $ echo "Sometimes you forget You Are Amazing, so this is your Reminder!" | sed 's/\(\b[A-Z]\)/\ (\1\)/g'. what is the output?
+
+	a.(S)ometimes you forget (Y)ou Are Amazing, so this is your (R)eminder!
+	b.(s)ometimes you forget (y)ou Are Amazing, so this is your (r)eminder!
+
+Correct answer: a
+
+142. To delete a particular line, ex: 3rd line from a file "Hi.txt" 
+Hi Everyone, 
+GoodMorning! 
+How are you?  What Linus command is used using 'sed'?
+
+	a.sed '3d' Hi.txt
+	b.sed 'd3' Hi.txt
+	c.sed '-3d' Hi.txt
+	d.sed '2-d3' Hi.txt
+
+Correct answer: a
+Output: 
+Hi Everyone, 
+GoodMorning! 
+
