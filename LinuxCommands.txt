@@ -1424,3 +1424,25 @@ How are you? " Which Linux command is used?
 	d.sed '2 ig/Hi/Hey/si' Hi.txt
 
 Correct answer: a
+
+139. What Linux command is used to display processes for the current shell?
+
+	a.ps
+	b.ls
+	c.process
+
+Correct answer: a
+Output:  
+PID TTY        TIME CMD
+42915 pts/0    00:00:00 bash
+42936 pts/0    00:00:00 ping
+43158 pts/0    00:00:00 ps
+
+
+140. What Linux command is used to print all processes in different formats?
+
+	a.ps -A
+	b.ls -A
+	c.process -A
+
+Correct answer: a	
