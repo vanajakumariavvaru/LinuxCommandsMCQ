@@ -1469,3 +1469,22 @@ Output:
 Hi Everyone, 
 GoodMorning! 
 
+143. BSD stands for?
+
+	a.Berkerley Software Distribution
+	b.Bitwise Software Distribution
+	c.Binary Software Distribution
+	d.BasicSoftware Distribution
+
+Correct answer: a
+It is the name of distributions of source code from the University of California, Berkeley, which were originally extensions to AT&T's Research UNIX® operating system.
+
+144. Difference between BSD Syntax and Standard Syntax? Options without '-' to write commands is  BSD syntax, Options with '-' to write commands is Standard Syntax?
+
+	a.True
+	b.False
+
+Correct answer: a
+
+
+
