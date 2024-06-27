@@ -1486,5 +1486,55 @@ It is the name of distributions of source code from the University of California
 
 Correct answer: a
 
+145. To delete last line, from a file "Hi.txt"     
+Hi Everyone, 
+GoodMorning! 
+How are you? What Linus command is used using 'sed'?
 
+	a.sed '$d' Hi.txt
+	b.sed '-3' Hi.txt
+	c.sed '|d' Hi.txt
+	d.sed '#d' Hi.txt
 
+Correct answer: a
+Output: 
+Hi Everyone, 
+GoodMorning! 
+
+146. To Delete line from range x to y using 'sed' Linux command? Ex: line 4 to 6 from cat Hi.txt 
+1.Pursue  
+2.what catches  
+3.your heart,  
+4.not   
+5.what   
+6.catches your eyes.
+
+	a.sed '4,6d' Hi.txt
+	b.sed '4,6-d' Hi.txt
+	c.sed '$4,6' Hi.txt
+	d.sed '4,6#d' Hi.txt
+
+Correct answer: a
+Output: 
+1.Pursue  
+2.what catches  
+3.your heart,
+
+147. To Delete from nth(line 4) to last line using 'sed' Linux command? Ex:  cat Hi.txt 
+1.Pursue  
+2.what catches   
+3.your heart,   
+4.not   
+5.what   
+6.catches your eyes.
+
+	a.sed '4,$d' Hi.txt
+	b.sed '4,-$d' Hi.txt
+	c.sed '$4,6' Hi.txt
+	d.sed '4,$d' Hi.txt
+
+Correct answer: a
+Output: 
+1.Pursue  
+2.what catches  
+3.your heart,
