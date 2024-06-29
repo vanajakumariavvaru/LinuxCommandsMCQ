@@ -1538,3 +1538,22 @@ Output:
 1.Pursue  
 2.what catches  
 3.your heart,
+
+148. ps - report a snapshot of the current processes. To Display processes in BSD format, What Linux command is used?
+
+	a.$ ps aux
+	b.$ ps -aux
+	c.$ ps a
+	d.$ ps -au
+
+Correct answer: a
+
+149. ps - report a snapshot of the current processes. To display full-format listing, What Linux command is used?
+
+	a.$ ps -ef
+	b.$ ps -f
+	c.$ ps ef
+	d.$ ps f
+
+Correct answer: a
+
