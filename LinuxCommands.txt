@@ -1557,3 +1557,20 @@ Correct answer: a
 
 Correct answer: a
 
+150. ps - report a snapshot of the current processes, To print user running processes. What Linux command is used?
+
+	a.$ ps -x
+	b.$ ps -a
+	c.$ ps -u
+	d.$ ps -l
+
+Correct answer: a
+
+151. ps - report a snapshot of the current processes. To print user processes by real user ID or name. What Linux command is used?
+
+	a.$ ps -fU ilugc
+	b.$ ps -U ilugc
+	c.$ ps -f ilugc
+	d.$ ps fU ilugc
+
+Correct answer: a
