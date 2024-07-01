@@ -1575,4 +1575,80 @@ Correct answer: a
 
 Correct answer: a
 
-152. 
+152. To Delete pattern matching line. 
+Ex: cat Pattern.txt 
+1.Nothing  
+2.will 
+3.come 
+4.of   
+5.Nothing, What Linux command is used using 'sed' ?
+
+	a.sed '/line 1/d' Pattern.txt
+	b.sed '/Nothing/d' Pattern.txt
+	c.sed '/1,5/d' Pattern.txt
+
+Correct answer: a
+Output:
+2.will 
+3.come 
+4.of 
+
+153. To delete all blank lines in a file"Hi.txt", using 'sed' Linux command?
+
+	a.sed '/^$/d' Hi.txt
+	b.sed '/|$/d' Hi.txt
+	c.sed '/#$/d' Hi.txt
+	d.sed '/&$/d' Hi.txt
+
+Correct answer: a
+
+154. To View a range of lines of a document using 'sed' Linux command? 
+Ex: cat sedView.txt  
+1. 
+2. 
+3.When the going gets tough, 
+4.put one foot 
+5.in front of the other and 
+6.just keep going.
+7.Don't give up. 
+8.
+
+	a.sed -n '3,7d' sedView.txt
+	b.sed -n '3,7p' sedView.txt
+	c.sed -p '3,7d' sedView.txt
+	d.sed -d '3,7p' sedView.txt
+
+Correct answer: b
+Output:
+3.When the going gets tough, 
+4.put one foot 
+5.in front of the other and 
+6.just keep going.
+7.Don't give up.
+
+155. To View the entire file except a given range using 'sed' Linux command? 
+Ex: cat sedView.txt  
+1. 
+2. 
+3.When the going gets tough, 
+4.put one foot
+5.in front of the other and 
+6.just keep going.
+7.Don't give up. 
+8.
+
+	a.sed '1,2d' sedView.txt
+	b.sed '1,2p' sedView.txt
+	c.sed '1,2n' sedView.txt
+	d.sed '1,2r' sedView.txt
+
+Correct answer: b
+Output:
+3.When the going gets tough, 
+4.put one foot
+5.in front of the other and 
+6.just keep going.
+7.Don't give up. 
+8.
+
+
