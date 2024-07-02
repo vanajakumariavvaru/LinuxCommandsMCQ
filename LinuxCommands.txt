@@ -1651,4 +1651,24 @@ Output:
 7.Don't give up. 
 8.
 
+156. ps - report a snapshot of the current processes.To display all processes running as root, What Linux command is used?
+
+	a.$ ps -U root -u root
+	b.$ ps -u 
+	c.$ ps -U 
+	d.$ ps -root
+
+Correct answer: a
+
+157. PID stands for in Linux commnds?
+
+	a.Process ID 
+	b.Print ID 
+	c.Path ID 
+	d.Password ID
+
+Correct answer: a
+Output: The Process ID (PID) is a unique identification number assigned to each running process.
+
+
 
