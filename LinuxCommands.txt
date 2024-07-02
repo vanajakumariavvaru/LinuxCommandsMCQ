@@ -1670,5 +1670,37 @@ Correct answer: a
 Correct answer: a
 Output: The Process ID (PID) is a unique identification number assigned to each running process.
 
+158. To Insert a blank line in files    
+Ex: cat sedSpace.txt
+1.The only way  
+2.to do great work  
+3.is to love  
+4.what you do. What 'sed' Linux command is used?
 
+	a.sed s sedSpace.txt
+	b.sed d sedSpace.txt
+	c.sed G sedSpace.txt 
+	d.sed i sedSpace.txt
+
+Correct answer: c
+Output:The only way    
+
+to do great work is to love what you do.
+
+159. To Insert two blank line in a file                    
+Ex: cat sedSpace.txt 
+1.The only way  
+2.to do great work  
+3.is to love   
+4.what you do. What 'sed' Linux command is used?
+
+	a.sed 'S;S' sedSpace.txt
+	b.sed 'G;G' sedSpace.txt
+	c.sed 'B;B' sedSpace.txt 
+	d.sed 'l;l' sedSpace.txt
+
+Correct answer: b
+Output:The only way  
+
+to do great work  is to love   what you do.
 
