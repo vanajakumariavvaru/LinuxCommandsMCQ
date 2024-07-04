@@ -1754,3 +1754,22 @@ Ascii text compiled Java class data, version 55.0(java SE 11) c++ source, ASCII 
 	d.file @
 
 Correct answer: a
+
+165. ps - report a snapshot of the current processes. To list process by PPID
+Ex: PPID is 1 . What Linux command is used?
+
+	a.$ ps -f --ppid 1
+	b.$ ps -fp --ppid 1
+	c.$ ps f -ppid 1 
+	d.$ ps -fp --ppid 1
+
+Correct answer: a
+
+166. TTY Stands for in Linux command?
+
+	a.TeleTypeWriters
+	b.TelePrinters
+	c.TeleProcessorType 
+	d.TeleTypeProcessor
+
+Correct answer: a
