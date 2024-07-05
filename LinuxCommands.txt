@@ -1773,3 +1773,18 @@ Correct answer: a
 	d.TeleTypeProcessor
 
 Correct answer: a
+
+167. ps - report a snapshot of the current processes. To display processes by TTY, What Linux command is used?
+Ex: TTY is pts/0 or tty2
+
+	a.$ ps -t pts/0 or $ ps -t tty2
+	b.$ ps -f pts/0 or $ ps -f tty2
+	c.$ ps -fp pts/0 or $ ps -fp tty2
+	d.$ ps -ft pts/0 or $ ps -ft tty2
+
+Correct answer: a
+Output:
+PID    TTY          TIME CMD
+42915  pts/0    00:00:00 bash
+42936  pts/0    00:00:00 ping
+82141  pts/0    00:00:00 ps
