@@ -1788,3 +1788,84 @@ PID    TTY          TIME CMD
 42915  pts/0    00:00:00 bash
 42936  pts/0    00:00:00 ping
 82141  pts/0    00:00:00 ps
+
+168. To display all files filetypes in a particular directory, What Linux command is used? 'sample' is directory name.
+
+	a.file/sample/*
+	b.file/sample/@
+	c.file/sample/$
+	d.file/sample/!
+
+Correct answer: a
+
+169. To display the file type of files in specific range, What Linux command is used? File range is 'a' to 'i'?
+
+	a.file[a - i]*
+	b.file[a - i]@
+	c.file[a - i]$
+	d.file[a - i]^
+
+Correct answer: a
+
+170. How to view mime type of files in a directory using 'file' Linux command, 'sample' is directory name.
+
+	a.file -i /sample/* or file --mime /sample/*
+	b.file -m /sample/* or file --mime /sample/*
+	c.file -t /sample/* or file --mime /sample/*
+	d.file -d /sample/* or file --mime /sample/*
+
+Correct answer: a
+
+171. To view file type inside compressed files using 'file' Linux command? Compressed file name 'Rafah.tar.xz'
+
+	a.file -s Rafah.tar.xz
+	b.file -t Rafah.tar.xz
+	c.file -z Rafah.tar.xz
+	d.file -c Rafah.tar.xz
+
+Correct answer: a
+
+172. Which Linux command is used to change file Timestamp?
+
+	a.$ cat 
+	b.$ echo
+	c.$ touch
+	d.$ file
+
+Correct answer: a
+
+173. To Create an Empty File, What Linux command is used? Filename - 'Rafah.txt'
+
+	a.$ cat Rafah.txt
+	b.$ echo Rafah.txt
+	c.$ touch Rafah.txt
+	d.$ file Rafah.txt
+
+Correct answer: c
+
+174. To Avoid Creating New File, What Linux command is used? Filename - 'Rafah.txt'
+
+	a.$ touch -a Rafah.txt
+	b.$ touch -b Rafah.txt
+	c.$ touch -c Rafah.txt
+	d.$ touch -d Rafah.txt
+
+Correct answer: c
+
+175. To change or update the last access or modification times of a file "Rafah", What Linux command is used.
+
+	a.$ touch -a Rafah
+	b.$ touch -m Rafah
+	c.$ touch -c Rafah
+	d.$ touch -d Rafah
+
+Correct answer: a
+
+176. To Change File Modification Time of a file "Rafah", What Linux command is used?
+
+	a.$ touch -a Rafah
+	b.$ touch -m Rafah
+	c.$ touch -c Rafah
+	d.$ touch -d Rafah
+
+Correct answer: b
