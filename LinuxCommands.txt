@@ -1869,3 +1869,49 @@ Correct answer: a
 	d.$ touch -d Rafah
 
 Correct answer: b
+
+177. How to configure method- level security on Spring Security?
+
+	a.$ ps -eo pid,ppid,user,cmd
+	b.$ ps -oe pid,ppid,user,cmd
+	c.$ ps -fp pid,ppid,user,cmd
+	d.$ ps fp pid,ppid,user,cmd
+
+Correct answer: a
+
+178. To Use the time stamp of a file "Hi.txt " to "Hello.txt". What Linux command is used?
+
+	a.$ touch -r Hello.txt Hi.txt
+	b.$ touch -a Hello.txt Hi.txt
+	c.$ touch -t Hello.txt Hi.txt
+	d.$ touch -m Hello.txt Hi.txt
+
+Correct answer: a
+
+179. To Explicitly Set the Access and Modification times of a file "Results", what Linux command is used? ex: Access and modification time  is June 6th 2024
+
+	a.$ touch -c -t 06061800 Results
+	b.$ touch -a -m 06061800 Results
+	c.$ touch -m -a 06061800 Results
+	d.$ touch -t -a 06061800 Results
+
+Correct answer: a
+
+180. To reverse lines characterwise? What Linux command is used? 
+Ex: cat Gratitude.txt " !!!emitefil a tsal dluoc ti meht rof tub, yas ot sdnoces ekat yam ti meht llet , enoemos ni lufituaeb gnihtemos ees uoy nehw "
+
+	a.$ char Gratitude.txt
+	b.$ rev Gratitude.txt
+	c.$ reverse -l Gratitude.txt
+	d.$ character Gratitude.txt
+
+Correct answer: b 
+
+181. What Linux command read from standard input and write to standard output and files?
+
+	a.$ tac
+	b.$ tee
+	c.$ cat
+	d.$ None of the above
+
+Correct answer: b 
