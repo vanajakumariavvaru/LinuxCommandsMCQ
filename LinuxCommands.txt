@@ -1915,3 +1915,136 @@ Correct answer: b
 	d.$ None of the above
 
 Correct answer: b 
+
+182. What Linux command is used to display the parent-child relationship in a hierarchical format of a running process?
+
+	a.$ ps
+	b.$ pstree
+	c.$ ps tree
+	d.$ pst
+
+Correct answer: b 
+
+183. tee - read from standard input and write to standard output and files. To append a line of text "Good Morning!" to a file "Demo .txt". What Linux command is used?
+
+	a.$ echo " Good Morning!" | tee Demo.txt
+	b.$ echo " Good Morning!" @ tee Demo.txt
+	c.$ echo " Good Morning!" & tee Demo.txt
+	d.$ echo " Good Morning!" $ tee Demo.txt
+
+Correct answer: a 
+
+184. tee - read from standard input and write to standard output and files. To append a line of text "Good Morning!" to Multiple files "Demo .txt" , "Demo1.txt". What Linux command is used?
+
+	a.$ echo " Good Morning!" | tee Demo.txt Demo1.txt
+	b.$ echo " Good Morning!" @ tee Demo.txt Demo1.txt
+	c.$ echo " Good Morning!" & tee Demo.txt Demo1.txt
+	d.$ echo " Good Morning!" $ tee Demo.txt Demo1.txt
+
+Correct answer: a
+
+185. tee - read from standard input and write to standard output and file. To redirect output of one command to another command. What Linux Command is used? 
+Example.txt "Good Morning Everyone!"
+
+	a.$ cat Example.txt | tee Demo.txt | grep "Everyone!"
+	b.$ cat Example.txt | tee Demo.txt @ grep "Everyone!"
+	c.$ cat Demo.txt | tee Example.txt | grep "Everyone!"
+	d.$ cat Example.txt $ tee Demo.txt | grep "Everyone!"
+
+Correct answer: a
+
+186. What Linux commnads prints lines that match patterns?
+
+	a.$ sed
+	b.$ tr
+	c.$ grep
+	d.$ fmt
+
+Correct answer: c
+
+187. To search for a String "for" in a single file?
+Ex: cat cause.txt "Work for a cause, Not for applause.
+Live life to express, not to impress"  What Linux command is used?
+
+	a.$ sed "for" cause.txt
+	b.$ tr "for" cause.txt
+	c.$ grep "for" cause.txt
+	d.$ fmt "for" cause.txt
+
+Correct answer: c
+
+188. grep - print lines that match patterns, To check for the given string"for" in multiple files? 
+Ex: cat cause.txt "1.Work for a cause, 2.Not for applause,3.Live life to express,4. not to impress".                     
+    cat Express.txt "1. for 2. Far"
+
+	a.$ grep "for" cause.txt Express.txt
+	b.$ grep -i "for" cause.txt Express.txt
+	c.$ grep -u "for" cause.txt Express.txt
+	d.$ grep -a "for" cause.txt Express.txt
+
+Correct answer: a
+
+189.grep - print lines that match patterns, To search case insensitive using grep? What Linux command is used? 
+Ex: cat Express.txt "1.For 2. Far"
+
+	a.$ grep -i "for" Express.txt
+	b.$ grep -u "for" Express.txt
+	c.$ grep -a "for" Express.txt
+	d.$ grep -s "for" Express.txt
+
+Correct answer: a
+
+190. grep - print lines that match patterns, To check for full words using grep,What linux commands is used? 
+Ex: cat Luxuries.txt "1.Time in Life 2.Slow mornings in life 3.Health in life 4.House full of love 5.A Quiet mind in Life 6. Ability to travel in Life"
+
+	a.$ grep -iw "life" Luxuries.txt
+	b.$ grep -i "life" Luxuries.txt
+	c.$ grep -d "life" Luxuries.txt
+	d.$ grep -u "life" Luxuries.txt
+
+Correct answer: a
+
+191. To search in all files recursively using grep for a particular word "life". What Linux command is used?
+
+	a.$ grep -r "life" *
+	b.$ grep -s "life" *
+	c.$ grep -c "life" *
+	d.$ grep -d "life" *
+
+Correct answer: a
+
+192. To count the number of matches in a file "Luxuries.txt" using grep, What Linux Command is used?
+
+	a.$ grep -c life Luxuries.txt
+	b.$ grep -r life Luxuries.txt
+	c.$ grep -s life Luxuries.txt
+	d.$ grep -d life Luxuries.txt
+
+Correct answer: a
+
+193. grep - print lines that match patterns, To find out how many lines that does not match the pattern, What Linux command is used?
+
+	a.$ grep -v -c life Luxuries.txt
+	b.$ grep -d -c life Luxuries.txt
+	c.$ grep -s -c life Luxuries.txt
+	d.$ grep -n -c life Luxuries.txt
+
+Correct answer: a
+
+194. grep - print lines that match patterns, To show line number while displaying the output using grep, What Linux command is used?
+
+	a.$ grep -n "life" Luxuries.txt
+	b.$ grep -c "life" Luxuries.txt
+	c.$ grep -s "life" Luxuries.txt
+	d.$ grep -v "life" Luxuries.txt
+
+Correct answer: a
+
+195. grep - print lines that match patterns, To display the number of MP3 files, .jpeg, .txt files present in a directory? What Linux Command is used?
+
+	a.$ ls /home/Downloads | grep -c.jpeg
+	b.$ ls /home/Downloads | grep -n.jpeg
+	c.$ ls /home/Downloads | grep -s.jpeg
+	d.$ ls /home/Downloads | grep -v.jpeg
+
+Correct answer: a
