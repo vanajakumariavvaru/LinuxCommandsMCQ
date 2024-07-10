@@ -2048,3 +2048,23 @@ Correct answer: a
 	d.$ ls /home/Downloads | grep -v.jpeg
 
 Correct answer: a
+
+196. ASCII stands for
+
+	a.American Standard Code For Information Interchange
+	b.American Standard Code For Interchange Information
+	c.American Standard Code For Information Intellectuals
+	d.American Standard Code For Information Intercode
+
+Correct answer: a
+
+197. What is VT100 stands for?
+
+	a.Video Terminal
+	b.Video Transmitter
+	c.Visual Terminal
+	d.Visual Transmitter
+
+Correct answer: a
+The VT100 was a very popular RS-232 based dumb video terminal introduced by DEC in 1978.
+
