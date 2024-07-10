@@ -2067,4 +2067,3 @@ Correct answer: a
 
 Correct answer: a
 The VT100 was a very popular RS-232 based dumb video terminal introduced by DEC in 1978.
-
