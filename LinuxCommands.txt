@@ -2067,3 +2067,21 @@ Correct answer: a
 
 Correct answer: a
 The VT100 was a very popular RS-232 based dumb video terminal introduced by DEC in 1978.
+
+198. pstree - is used to display the parent-child relationship in a hierarchical format. What Linux command is to use ASCII characters to draw the tree.
+
+	a.$ pstree -A
+	b.$ pstree -S
+	c.$ pstree -R
+	d.$ pstree -T
+
+Correct answer: a
+
+199. pstree - is used to display the parent-child relationship in a hierarchical format. What Linux command is to use VT100 line drawing characters?
+
+	a.$ pstree -G
+	b.$ pstree -V
+	c.$ pstree -VT
+	d.$ pstree -T
+
+Correct answer: a
