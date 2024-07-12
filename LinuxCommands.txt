@@ -2085,3 +2085,21 @@ Correct answer: a
 	d.$ pstree -T
 
 Correct answer: a
+
+200. What is UTF stands for?
+
+	a. Uniform Transformation Format
+	b. Universal Transformation Format
+	c. Unicode Transformation Format
+	d. Uniform Transmitter Format
+
+Correct answer: c
+
+201. pstree - is used to display the parent-child relationship in a hierarchical format, What Linux command is to use UTF-8 (Unicode) line drawing characters?
+
+	a.$ pstree -U
+	b.$ pstree -UTF
+	c.$ pstree -UTF-8
+	d.$ pstree -utf
+
+Correct answer: a
