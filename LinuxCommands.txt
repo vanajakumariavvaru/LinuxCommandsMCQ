@@ -2103,3 +2103,14 @@ Correct answer: c
 	d.$ pstree -utf
 
 Correct answer: a
+
+202. What Linux command displays amount of free and used memory in the system?
+
+	a.$ display
+	b.$ free
+	c.$ memory
+	d.$ system
+
+Correct answer: a
+
+203. 
