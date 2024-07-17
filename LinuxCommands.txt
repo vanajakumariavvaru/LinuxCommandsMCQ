@@ -2113,4 +2113,14 @@ Correct answer: a
 
 Correct answer: a
 
-203. 
+203. How to check memeory usage in LInux?
+
+	a.$ free -h
+	b.$ top
+	c.$ cat /proc/meminfo
+	d.$ sudo ps_mem
+	e.All of the above
+
+Correct answer: e
+
+
