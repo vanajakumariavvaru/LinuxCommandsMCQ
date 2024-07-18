@@ -2123,4 +2123,19 @@ Correct answer: a
 
 Correct answer: e
 
+204. To display amount of free and used memory in bytes, kilobytes, megabytes, gigabytes respectively.What linux command is used?
 
+	a.$ free -hb/ free -hk/ free -hm/free -hg
+	b.$ free -hB/ free -hK/ free -hM/free -hG
+	c.$ free -hb/ free -hkb/ free -hmb/free -hgb
+
+Correct answer: a
+
+205. To display an additional line containing the total of the total, used and free columns. What Linux command is used?
+
+	a.$ free -t
+	b.$ free -total
+	c.$ free -t -c
+	d.$ free -t -a
+
+Correct answer: a
