@@ -2139,3 +2139,12 @@ Correct answer: a
 	d.$ free -t -a
 
 Correct answer: a
+
+206. What Linux command create a new user or update default new user information?
+
+	a.adduser
+	b.useradd
+	c.user
+	d.userinfo
+
+Correct answer: b
