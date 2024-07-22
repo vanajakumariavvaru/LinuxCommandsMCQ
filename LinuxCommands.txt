@@ -2148,3 +2148,13 @@ Correct answer: a
 	d.userinfo
 
 Correct answer: b
+
+207. Difference between adduser and useradd Linux command?
+
+	a.useradd is native binary compiled with the system
+	b.adduser is a perl script which uses useradd binary in back-end. adduser is more user friendly and interactive
+	c.There's no difference in features provided.
+	d.All of the above
+	e.None of the above
+
+Correct answer: d
