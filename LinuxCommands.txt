@@ -2175,4 +2175,21 @@ Correct answer: a
 	d.All of the above
 
 Correct answer: a
+
+210. useradd - create a new user or update default new user information. To view user " Myself " related information, What Linux command is used?
+
+	a.$ sudo cat /etc/passwd | grep Myself
+	b.$ sudo cat /etc/user | grep Myself
+	c.$ sudo /etc/passwd | grep Myself
+	d.$ sudo /etc/user | grep Myself
+
+Correct answer: a
+
+211. useradd - create a new user or update default new user information. To create a User " Myself " with a Specific User ID(1234) What Linux command is used?
+
+	a.$ sudo useradd -u 1234 klug
+	b.$ sudo useradd -d 1234 klug
+	c.$ sudo useradd -s 1234 klug
+	d.$ sudo useradd -p 1234 klug
+
 Correct answer: a
