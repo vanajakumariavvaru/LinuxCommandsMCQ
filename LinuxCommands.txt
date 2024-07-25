@@ -2193,3 +2193,22 @@ Correct answer: a
 	d.$ sudo useradd -p 1234 klug
 
 Correct answer: a
+
+212. useradd - create a new user or update default new user information.What Linux command is used to create a group Id? Ex: id (Bsnl)
+
+	a.$ sudo groupadd Bsnl
+	b.$ sudo groupid Bsnl
+	c.$ sudo addgroup Bsnl
+	d.$ sudo groupaddid Bsnl
+
+Correct answer: a
+
+213. useradd - create a new user or update default new user information. What Linux command is used to Create a User(Myself) with a Specific Group ID(Bsnl)
+
+	a.$ sudo useradd -u 1234 -add Bsnl Myself
+	b.$ sudo useradd -u 1234 -g Bsnl Myself
+	c.$ sudo useradd -u 1234 -group Bsnl Myself
+	d.$ sudo useradd -u 1234 -groupadd Bsnl Myself
+
+Correct answer: b
+
