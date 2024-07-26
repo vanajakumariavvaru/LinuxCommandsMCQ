@@ -2212,3 +2212,12 @@ Correct answer: a
 
 Correct answer: b
 
+214. After creating the specific groupID(Bsnl) for a user " Myself ", What Linux command is used to verify user's groupID
+
+	a.$ id -gn Myself
+	b.$ id -g Myself
+	c.$ id -groupid Myself
+	d.$ id -gid Myself
+
+Correct answer: a
+Out
