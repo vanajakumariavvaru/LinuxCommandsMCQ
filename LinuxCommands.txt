@@ -2220,4 +2220,13 @@ Correct answer: b
 	d.$ id -gid Myself
 
 Correct answer: a
-Out
+
+215. useradd - create a new user or update default new user information, What Linux command is used to Add a User "Myself" to Multiple Groups( TLC, Team Payilagam, OSC, React)
+
+	a.$ sudo useradd -G TLC, Team Payilagam, OSC, React Myself
+	b.$ sudo gropadd -G TLC, Team Payilagam, OSC, React Myself
+	c.$ sudo add -G TLC, Team Payilagam, OSC, React Myself
+	d.$ sudo addgroup -G TLC, Team Payilagam, OSC, React Myself
+
+Correct answer: a
+
