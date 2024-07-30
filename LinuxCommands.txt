@@ -2230,3 +2230,11 @@ Correct answer: a
 
 Correct answer: a
 
+216. useradd - create a new user or update default new user information. What Linux command is used to Create a User(RedHat) with Account Expiry Date?
+
+	a.$ sudo useradd -e 2027-07-29 RedHat
+	b.$ sudo useradd -g 2027-07-29 RedHat
+	c.$ sudo useradd -G 2027-07-29 RedHat
+	d.$ sudo useradd -a 2027-07-29 RedHat
+
+Correct answer: a
