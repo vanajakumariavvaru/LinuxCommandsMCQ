@@ -2238,3 +2238,20 @@ Correct answer: a
 	d.$ sudo useradd -a 2027-07-29 RedHat
 
 Correct answer: a
+
+217. What Linux command is used to enable Administrators to view password(expiry date) related information for a specific user(RedHat)
+
+	a.$ sudo chage -l RedHat
+	b.$ sudo change -l RedHat
+	c.$ sudo charge -l RedHat
+	d.$ sudo chage -ll RedHat
+
+Correct answer: a
+Output: $ sudo chage -l Redhat
+Last password change					: Jul 30, 2024
+Password expires					: never
+Password inactive					: never
+Account expires						: Dec 31, 2042
+Minimum number of days between password change		: 0
+Maximum number of days between password change		: 99999
+Number of days of warning before password expires	: 7
