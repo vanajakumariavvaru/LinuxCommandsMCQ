@@ -2255,3 +2255,14 @@ Account expires						: Dec 31, 2042
 Minimum number of days between password change		: 0
 Maximum number of days between password change		: 99999
 Number of days of warning before password expires	: 7
+
+218. useradd - create a new user or update default new user information. What Linux command is used to add a user with home directory?Ex:  user " Recession "
+
+	a.$ sudo useradd -M Recession
+	b.$ sudo useradd -s Recession
+	c.$ sudo useradd -m Recession
+	d.$ sudo useradd -d Recession
+
+Correct answer: c
+
+
