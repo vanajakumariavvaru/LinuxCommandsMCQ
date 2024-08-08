@@ -2265,4 +2265,11 @@ Number of days of warning before password expires	: 7
 
 Correct answer: c
 
+219. useradd - create a new user or update default new user information. What Linux command is to Add a User without Home Directory. Ex: user "Vinesh_Phogat"
 
+	a.$ sudo useradd -h Vinesh_Phogat
+	b.$ sudo useradd -M Vinesh_Phogat
+	c.$ sudo useradd -m Vinesh_Phogat
+	d.$ sudo useradd -d Vinesh_Phogat
+
+Correct answer: b
