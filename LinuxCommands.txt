@@ -2273,3 +2273,12 @@ Correct answer: c
 	d.$ sudo useradd -d Vinesh_Phogat
 
 Correct answer: b
+
+220. useradd - create a new user or update default new user information. What Linux command is used to Add a User(ILUGC) with Custom Comments(ILUGC Monthly Meet 08-10-2024)?
+
+	a.$ sudo useradd -l "ILUGC Monthly Meet 08-10-2024" ILUGC
+	b.$ sudo useradd -comment "ILUGC Monthly Meet 08-10-2024" ILUGC
+	c.$ sudo useradd -d "ILUGC Monthly Meet 08-10-2024" ILUGC
+	d.$ sudo useradd -c "ILUGC Monthly Meet 08-10-2024" ILUGC
+
+Correct answer: d
