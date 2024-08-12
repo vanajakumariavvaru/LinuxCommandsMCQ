@@ -2282,3 +2282,12 @@ Correct answer: b
 	d.$ sudo useradd -c "ILUGC Monthly Meet 08-10-2024" ILUGC
 
 Correct answer: d
+
+221. What is Linux Shell?
+
+	a.A shell is a program that acts as an interface between a user and the kernel.
+	b.Whenever a user logs in to the system or opens a console window, the kernel runs a new shell instance. 
+	c.Shell allows a user to give commands to the kernel and receive responses from it.
+	d.All of the above
+
+Correct answer: d
