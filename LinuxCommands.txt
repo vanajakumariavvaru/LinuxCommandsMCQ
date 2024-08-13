@@ -2291,3 +2291,21 @@ Correct answer: d
 	d.All of the above
 
 Correct answer: d
+
+222. How many types of Shell available in Linux(most popular and widely used)?
+
+	a.5
+	b.6
+	c.7
+	d.8
+
+Correct answer: d
+
+223. What Linux command is used to check which Shell you are currently using?
+
+	a.echo shell
+	b.echo $SHELL
+	c.echo $Shell
+	d.echo $shell
+
+Correct answer: b
