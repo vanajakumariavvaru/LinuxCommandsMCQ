@@ -2309,3 +2309,12 @@ Correct answer: d
 	d.echo $shell
 
 Correct answer: b
+
+224. What is the default shell in Linux?
+
+	a.csh
+	b.zsh
+	c.bash
+	d.sh
+
+Correct answer: c
