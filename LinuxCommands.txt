@@ -2318,3 +2318,21 @@ Correct answer: b
 	d.sh
 
 Correct answer: c
+
+225. useradd - create a new user or update default new user information. What Linux command is used to create a User(Test) with Different Home Directory ("/data/myprojects")
+
+	a.$ sudo useradd -m /data/myprojects Test
+	b.$ sudo useradd -h /data/myprojects Test
+	c.$ sudo useradd -dd /data/myprojects Test
+	d.$ sudo useradd -d /data/myprojects Test
+
+Correct answer: d
+
+226. To Add a User(Myself) with Specific Home Directory, Default Shell, and Custom Comment?
+
+	a.$ sudo useradd -m -d /var/www/Myself -s /bin/bash -c "Learning Linux Commands" -U Myself
+	b.$ sudo useradd -M -dd /var/www/Myself -s /bin/bash -c "Learning Linux Commands" -U Myself
+	c.$ sudo useradd -m -h /var/www/Myself -s /bin/bash -c "Learning Linux Commands" -U Myself
+	d.$ sudo useradd -M -h /var/www/Myself -s /bin/bash -c "Learning Linux Commands" -U Myself
+
+Correct answer: a
