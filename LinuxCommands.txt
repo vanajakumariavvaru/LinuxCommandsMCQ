@@ -2336,3 +2336,12 @@ Correct answer: d
 	d.$ sudo useradd -M -h /var/www/Myself -s /bin/bash -c "Learning Linux Commands" -U Myself
 
 Correct answer: a
+
+227. What Linux command is used to change the System user's password?
+
+	a.pwd
+	b.password
+	c.passwrd
+	d.passwd
+
+Correct answer: d
