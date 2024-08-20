@@ -2345,3 +2345,21 @@ Correct answer: a
 	d.passwd
 
 Correct answer: d
+
+228. What Linux command is used to change password for root?
+
+	a.$ sudo passwd root
+	b.$ passwd root
+	c.$ sudo passwd -r
+	d.$ sudo passwd -S root
+
+Correct answer: a
+
+229. What Linux command is used to display user(Myself) status information using 'passwd' command?
+
+	a.$ sudo passwd -r Myself
+	b.$ sudo passwd -l Myself
+	c.$ sudo passwd -S Myself
+	d.$ sudo passwd -u Myself
+
+Correct answer: c
