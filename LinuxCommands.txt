@@ -2363,3 +2363,21 @@ Correct answer: a
 	d.$ sudo passwd -u Myself
 
 Correct answer: c
+
+230. What Linux command is used to display information of all users?
+
+	a.$ sudo passwd -S
+	b.$ sudo passwd -S d
+	c.$ sudo passwd -Sa
+	d.$ sudo passwd -D
+
+Correct answer: c
+
+231. What Linux command is used to delete user’s(Myself) password?
+
+	a.$ sudo -D Myself
+	b.$ sudo -d Myself
+	c.$ sudo d Myself
+	d.$ sudo D Myself
+
+Correct answer: b
