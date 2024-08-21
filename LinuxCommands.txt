@@ -2375,9 +2375,9 @@ Correct answer: c
 
 231. What Linux command is used to delete user’s(Myself) password?
 
-	a.$ sudo -D Myself
-	b.$ sudo -d Myself
-	c.$ sudo d Myself
-	d.$ sudo D Myself
+	a.$ sudo passwd -D Myself
+	b.$ sudo passwd -d Myself
+	c.$ sudo passwd d Myself
+	d.$ sudo passwd D Myself
 
 Correct answer: b
