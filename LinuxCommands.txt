@@ -2381,3 +2381,21 @@ Correct answer: c
 	d.$ sudo passwd D Myself
 
 Correct answer: b
+
+232. What Linux command is used to lock a user(Myself) password?
+
+	a.$ sudo passwd -L Myself
+	b.$ sudo passwd -Lock Myself
+	c.$ sudo passwd -l Myself
+	d.$ sudo passwd -lock Myself
+
+Correct answer: c
+
+233. What Linux command is used to check user(Myself) password is locked or not?
+
+	a.$ sudo passwd -La Myself
+	b.$ sudo passwd -S Myself
+	c.$ sudo passwd -la Myself
+	d.$ sudo passwd -s Myself
+
+Correct answer: b
