@@ -2399,3 +2399,12 @@ Correct answer: c
 	d.$ sudo passwd -s Myself
 
 Correct answer: b
+
+234. What Linux command is used to force expire the password to the user(Tamil_Linux_Community) , force the user to change the password in the next login?
+
+	a.$ sudo passwd -F Tamil_Linux_Community
+	b.$ sudo passwd -f Tamil_Linux_Community
+	c.$ sudo passwd -force Tamil_Linux_Community
+	d.$ sudo passwd -e Tamil_Linux_Community
+
+Correct answer: d
