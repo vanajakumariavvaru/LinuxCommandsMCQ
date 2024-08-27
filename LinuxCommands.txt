@@ -2417,3 +2417,21 @@ Correct answer: d
 	d.$ sudo passwd -U Myself
 
 Correct answer: a
+
+236. What Linux command is used to force system user(Myself) to change its password in 100 number of days?
+
+	a.$ sudo passwd -F 100 Myself
+	b.$ sudo passwd -f 100  Myself
+	c.$ sudo passwd -n 100  Myself
+	d.$ sudo passwd -N 100  Myself
+
+Correct answer: c
+
+237. What Linux command is used to set warning days(15) before password expiry?
+
+	a.$ sudo passwd -d 15 Myself
+	b.$ sudo passwd -W 15  Myself
+	c.$ sudo passwd -D 15  Myself
+	d.$ sudo passwd -w 15  Myself
+
+Correct answer: d
