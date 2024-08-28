@@ -2435,3 +2435,11 @@ Correct answer: c
 	d.$ sudo passwd -w 15  Myself
 
 Correct answer: d
+
+238. What Linux command is used to delete or remove user from the system?
+
+	a.userdel
+	b.deluser
+	c.All of the above
+
+Correct answer: c
