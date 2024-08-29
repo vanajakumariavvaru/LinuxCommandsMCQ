@@ -2443,3 +2443,10 @@ Correct answer: d
 	c.All of the above
 
 Correct answer: c
+
+239. userdel command removes a user account and related files, while deluser command deletes a user profile?
+
+	a.True
+	b.False
+
+Correct answer: a
