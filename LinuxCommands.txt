@@ -2450,3 +2450,14 @@ Correct answer: c
 	b.False
 
 Correct answer: a
+
+240. What is SELinux?
+
+	a.Selenium-Linux
+	b.System-Enable Linux
+	c.Security-Enhanced Linux
+	d.Shutdown-Enabled Linux
+
+Correct answer: c
+
+Correct answer: a
