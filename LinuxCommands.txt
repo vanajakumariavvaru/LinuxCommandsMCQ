@@ -2460,4 +2460,11 @@ Correct answer: a
 
 Correct answer: c
 
-Correct answer: a
+241. What Linux command is used to forcefully remove the user account(Myself) using 'userdel' command?
+
+	a.$ sudo userdel -f Myself
+	b.$ sudo userdel -F Myself
+	c.$ sudo userdel -force Myself
+	d.$ sudo userdel -Force Myself
+
+Correct answer: c
