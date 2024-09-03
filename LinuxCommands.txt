@@ -2468,3 +2468,12 @@ Correct answer: c
 	d.$ sudo userdel -Force Myself
 
 Correct answer: c
+
+242. What Linux command is used to remove user's home directory using 'userdel' command?
+
+	a.$ sudo userdel -h Myself
+	b.$ sudo userdel -r Myself
+	c.$ sudo userdel -home Myself
+	d.$ sudo userdel -remove Myself
+
+Correct answer: b
