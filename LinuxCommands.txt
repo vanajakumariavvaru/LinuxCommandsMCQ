@@ -2477,3 +2477,21 @@ Correct answer: c
 	d.$ sudo userdel -remove Myself
 
 Correct answer: b
+
+243. How to delete an account('Sample') including home directory using 'deluser' Linux command?
+
+	a.$ sudo deluser --r-home Sample
+	b.$ sudo userdel --delete-home Sample
+	c.$ sudo deluser --d-home Sample
+	d.$ sudo deluser --remove-home Sample
+
+Correct answer: d
+
+244. How to delete an account('Sample') forcefully using 'deluser' Linux command?
+
+	a.$ sudo deluser --force Sample
+	b.$ sudo userdel --F Sample
+	c.$ sudo deluser --Force Sample
+	d.$ sudo deluser --f Sample
+
+Correct answer: a
