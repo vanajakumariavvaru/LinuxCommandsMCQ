@@ -2495,3 +2495,12 @@ Correct answer: d
 	d.$ sudo deluser --f Sample
 
 Correct answer: a
+
+245. What Linux command is used to print the groups a user('Teacher') is in?
+
+	a.$ Groups
+	b.$ user
+	c.$ groups
+	d.$ User
+
+Correct answer: c
