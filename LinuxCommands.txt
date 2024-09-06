@@ -2504,3 +2504,11 @@ Correct answer: a
 	d.$ User
 
 Correct answer: c
+
+246. What Linux command is used to create a new group('Beginner')?
+
+	a.$ sudo groupadd Beginner
+	b.$ sudo addgroup Beginner
+	c.All of the above
+
+Correct answer: c
