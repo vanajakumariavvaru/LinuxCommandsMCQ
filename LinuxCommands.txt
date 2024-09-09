@@ -2512,3 +2512,19 @@ Correct answer: c
 	c.All of the above
 
 Correct answer: c
+
+247. What Linux command is used to add a new group('Beginner') with specific groupId( '1234') using addgroup?
+	a.$ sudo addgroup Beginner -g 1234
+	b.$ sudo addgroup Beginner -groupid 1234
+	c.$ sudo addgroup Beginner --gid 1234
+	d.$ sudo addgroup Beginner -GID 1234
+
+Correct answer: c
+
+248. What Linux command is used to add a new group('Beginner') with specific groupId( '1234') using groupadd?
+	a.$ sudo addgroup Beginner -g 1234
+	b.$ sudo addgroup Beginner --gid 1234
+	c.$ sudo addgroup Beginner -gid 1234
+	d.$ sudo addgroup Beginner --groupid 1234
+
+Correct answer: a
