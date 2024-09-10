@@ -2514,6 +2514,7 @@ Correct answer: c
 Correct answer: c
 
 247. What Linux command is used to add a new group('Beginner') with specific groupId( '1234') using addgroup?
+
 	a.$ sudo addgroup Beginner -g 1234
 	b.$ sudo addgroup Beginner -groupid 1234
 	c.$ sudo addgroup Beginner --gid 1234
@@ -2522,9 +2523,28 @@ Correct answer: c
 Correct answer: c
 
 248. What Linux command is used to add a new group('Beginner') with specific groupId( '1234') using groupadd?
+
 	a.$ sudo addgroup Beginner -g 1234
 	b.$ sudo addgroup Beginner --gid 1234
 	c.$ sudo addgroup Beginner -gid 1234
 	d.$ sudo addgroup Beginner --groupid 1234
 
 Correct answer: a
+
+249. 'sh'- full form in Linux operating system?
+
+	a.Born Shell
+	b.Bourne Shell
+	c.Bash Shell
+	d.GNU Shell
+
+Correct answer:b
+
+250. 'bash' - full form in Linux operating Sytem?
+
+	a.Born-Again Shell
+	b.Bourne-Again Shell
+	c.Bash-Again Shell
+	d.GNU-Again Shell
+
+Correct answer:b
