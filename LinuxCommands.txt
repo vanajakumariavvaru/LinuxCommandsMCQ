@@ -2548,3 +2548,10 @@ Correct answer:b
 	d.GNU-Again Shell
 
 Correct answer:b
+
+251. What Linux command is used to create a group('Beginner') with a specific shell 'sh'?
+
+	a.$ sudo addgroup Beginner --shell /bin/sh
+	b.$ sudo addgroupBeginner -shell /bin/sh
+
+Correct answer:a
