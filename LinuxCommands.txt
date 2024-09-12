@@ -2555,3 +2555,10 @@ Correct answer:b
 	b.$ sudo addgroupBeginner -shell /bin/sh
 
 Correct answer:a
+
+252. /etc is a folder holds system configuration files?
+
+	a.True
+	b.False
+
+Correct answer:a
