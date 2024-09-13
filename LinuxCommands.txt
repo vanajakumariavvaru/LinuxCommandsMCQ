@@ -2562,3 +2562,11 @@ Correct answer:a
 	b.False
 
 Correct answer:a
+
+253. What Linux command is used to remove a user('Myself') or group('Telegram_Community') from the system?
+
+	a.$ sudo delgroup Myself or Telegram_Community
+	b.$ sudo groupdel Myself or Telegram_Community
+	c.All of the above
+
+Correct answer:c
