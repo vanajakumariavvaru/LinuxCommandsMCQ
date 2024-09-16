@@ -2570,3 +2570,14 @@ Correct answer:a
 	c.All of the above
 
 Correct answer:c
+
+254. What Linux comman is used to print user, group ID without any option?
+
+	
+	a.uid
+	b.gid
+	c.id
+	d.All of the above
+
+Correct answer:c
+
