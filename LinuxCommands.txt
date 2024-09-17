@@ -2581,3 +2581,22 @@ Correct answer:c
 
 Correct answer:c
 
+255. What Linux command is used to find a specific users(' Myself ') id?
+
+	a.$ id -UID Myself
+	b.$ id -uid Myself
+	c.$ id -user Myself
+	d.$ id -u Myself
+
+Correct answer:d
+Output: 1236
+
+255. What Linux command is used to find a specific users(' Myself ') GID?
+
+	a.$ id -gid Myself
+	b.$ id -g Myself
+	c.$ id -GID Myself
+	d.$ id -Gid Myself
+
+Correct answer:b
+Output: 1240
