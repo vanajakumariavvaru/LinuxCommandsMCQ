@@ -2600,3 +2600,21 @@ Output: 1236
 
 Correct answer:b
 Output: 1240
+
+256. What Linux command is used to find out UID and all groups associated with a username('Team')?
+
+	a.$ id Team
+	b.$ id UID Team
+	c.$ id uid Team
+	d.$ id -UID Team
+
+Correct answer:a
+
+257. What Linux command is used to find out all the groups a user('Team') belongs?
+
+	a.$ id -g Team
+	b.$ id -G Team
+	c.$ id -Group Team
+	d.$ id -group Team
+
+Correct answer:a
