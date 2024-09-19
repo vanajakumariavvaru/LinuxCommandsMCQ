@@ -2618,3 +2618,11 @@ Correct answer:a
 	d.$ id -group Team
 
 Correct answer:a
+
+258. What command in Linux is used to run a shell with different user or can easily switch to the root user or any user in the system.
+
+	a.$ su
+	b.$ sudo
+	c.Both
+
+Correct answer:a
