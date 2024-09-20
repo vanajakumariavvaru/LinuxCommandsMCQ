@@ -2626,3 +2626,18 @@ Correct answer:a
 	c.Both
 
 Correct answer:a
+
+259. 'su' Stands for in Linux commands?
+
+	a.Substitute user
+	b.Switch user
+	c.Both
+
+Correct answer:c
+
+260. Difference Between 'su' and 'sudo' is 'su' requires the password of the target account, while 'sudo' requires the password of the current user
+
+	a.True
+	b.False
+
+Correct answer:a
