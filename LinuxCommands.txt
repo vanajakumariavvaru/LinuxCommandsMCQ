@@ -2642,7 +2642,14 @@ Correct answer:c
 
 Correct answer:a
 
-261. To switch to a different user('Team') using 'su' Linux command?
+261. bot full form?
+
+	a.Build Operate Transfer
+	b.Build Open Transfer
+
+Correct answer:a
+
+262. To switch to a different user('Team') using 'su' Linux command?
 
 	a.$ su -l Team
 	b.$ su -c Team
