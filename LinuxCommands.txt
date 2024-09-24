@@ -2641,3 +2641,12 @@ Correct answer:c
 	b.False
 
 Correct answer:a
+
+261. To switch to a different user('Team') using 'su' Linux command?
+
+	a.$ su -l Team
+	b.$ su -c Team
+	c.$ su -s Team
+	d.$ su -h Team
+
+Correct answer:a
