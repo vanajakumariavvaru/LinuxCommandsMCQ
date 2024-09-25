@@ -2657,3 +2657,12 @@ Correct answer:a
 	d.$ su -h Team
 
 Correct answer:a
+
+263. What Linux command is to use 'su' with sudo command of user 'Team'?
+
+	a.$ sudo -su - Team
+	b.$ sudo su - Team
+	c.﻿﻿$ su sudo - Team
+	d.$ su -sudo - Team
+
+Correct answer:b
