@@ -2666,3 +2666,13 @@ Correct answer:a
 	d.$ su -sudo - Team
 
 Correct answer:b
+
+264. To run specific command as a different user('TeamWork') using 'su' Linux command?
+
+	
+	a.$ su -l pwd TeamWork
+	b.$ su -s pwd TeamWork
+	c.$ su -c pwd TeamWork
+	d.$ su -m pwd TeamWork
+
+Correct answer:c
