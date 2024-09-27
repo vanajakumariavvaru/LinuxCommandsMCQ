@@ -2668,7 +2668,6 @@ Correct answer:a
 Correct answer:b
 
 264. To run specific command as a different user('TeamWork') using 'su' Linux command?
-
 	
 	a.$ su -l pwd TeamWork
 	b.$ su -s pwd TeamWork
@@ -2676,3 +2675,12 @@ Correct answer:b
 	d.$ su -m pwd TeamWork
 
 Correct answer:c
+
+265. What linux command has package and compress(Archive) files?
+
+	a.$ package
+	b.$ compress
+	c.$ archive
+	d.$ zip
+
+Correct answer:d
