@@ -2684,3 +2684,12 @@ Correct answer:c
 	d.$ zip
 
 Correct answer:d
+
+266. What Linux command is used to zip a single file (Team.txt)?
+
+	a.$ zip Team.zip Team.txt
+	b.$ zip Team.txt Team.zip
+	c.$ zip Team.zip Team
+	d.$ zip Team.txt
+
+Correct answer:a
