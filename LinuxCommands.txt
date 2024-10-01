@@ -2693,3 +2693,10 @@ Correct answer:d
 	d.$ zip Team.txt
 
 Correct answer:a
+
+267. What Linux command is used to zip(ThankYou) multiple files (Team_Payilayam.txt, Tamil_Linux_Community.txt)?
+	a.$ zip ThankYou Team_Payilayam.txt Tamil_Linux_Community.txt
+	b.$ zip ThankYou.zip Team_Payilayam.txt Tamil_Linux_Community.txt
+	c.$ zip ThankYou.zip Team_Payilayam Tamil_Linux_Community
+
+Correct answer:b
