@@ -2695,8 +2695,27 @@ Correct answer:d
 Correct answer:a
 
 267. What Linux command is used to zip(ThankYou) multiple files (Team_Payilayam.txt, Tamil_Linux_Community.txt)?
+
 	a.$ zip ThankYou Team_Payilayam.txt Tamil_Linux_Community.txt
 	b.$ zip ThankYou.zip Team_Payilayam.txt Tamil_Linux_Community.txt
 	c.$ zip ThankYou.zip Team_Payilayam Tamil_Linux_Community
 
 Correct answer:b
+
+268. Wildcard in Linux used for pattern matching, Wildcard comes in search for particular filenames from a heap of similarly named files
+
+	a.True
+	b.False
+
+Correct answer:a
+
+269. Most powerful and commonly used wildcards in Linux?
+
+	a.Asterisk (*)
+	b.Question Mark( ?)
+	c.Square Brackets []
+	d.All of the above
+	e.None of the above
+
+Correct answer:d
+
