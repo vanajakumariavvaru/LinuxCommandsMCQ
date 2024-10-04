@@ -2719,3 +2719,21 @@ Correct answer:a
 
 Correct answer:d
 
+270. What linux command is used to zip files based on wildcard(txt files)?
+
+	a.$ zip sort_txt.zip *.txt
+	b.$ zip sort_txt.zip -*.txt
+	c.$ zip sort_txt.zip ?*.txt
+	d.$ zip txt.zip -*.txt
+
+Correct answer:a
+
+271. What is alternative for 'ls' command in Linux?
+
+	a.plls
+	b.pls
+	c.ps
+
+Correct answer:b
+
+	
