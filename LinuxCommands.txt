@@ -2736,4 +2736,13 @@ Correct answer:a
 
 Correct answer:b
 
-	
+272. ﻿What Linux command is used to add a file ('contagious.txt')to a existing zip file('Kindness')?
+
+	a.$ zip -add Kindness.zip contagious.txt
+	b.$ zip -u Kindness.zip contagious.txt
+	c.$ zip add Kindness.zip contagious.txt
+	d.$ zip u Kindness.zip contagious.txt
+
+Correct answer:b
+
+Correct answer:a
