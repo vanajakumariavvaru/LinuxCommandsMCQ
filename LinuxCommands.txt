@@ -2745,4 +2745,11 @@ Correct answer:b
 
 Correct answer:b
 
-Correct answer:a
+273. To remove a file('contagious.txt') from an already existing zip file('Kindness.zip')?
+
+	a.$ zip -r Kindness.zip contagious.txt
+	b.$ zip -rmi Kindness.zip contagious.txt
+	c.$ zip -d Kindness.zip contagious.txt
+	d.$ zip -remove Kindness.zip contagious.txt
+
+Correct answer:c
