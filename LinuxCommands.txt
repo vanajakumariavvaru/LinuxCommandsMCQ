@@ -2753,3 +2753,14 @@ Correct answer:b
 	d.$ zip -remove Kindness.zip contagious.txt
 
 Correct answer:c
+
+274. What Linux command is to list, test and extract compressed files in a ZIP archive?
+
+	a.$ unzip
+	b.$ extract
+	c.$ unlock
+
+Correct answer:a
+
+275.
+
