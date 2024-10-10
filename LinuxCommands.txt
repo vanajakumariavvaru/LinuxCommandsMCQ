@@ -2762,5 +2762,11 @@ Correct answer:c
 
 Correct answer:a
 
-275.
+275. To extract all files from the zip archive('Sample.zip')
 
+	a.$ unzip Sample.zip
+	b.$ unzip -Sample.zip
+	c.$ Unzip Sample.zip
+	d.$ un zip Sample.zip
+
+Correct answer:a
