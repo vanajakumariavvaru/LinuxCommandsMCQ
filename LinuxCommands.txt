@@ -2770,3 +2770,12 @@ Correct answer:a
 	d.$ un zip Sample.zip
 
 Correct answer:a
+
+276. To unzip the file(sample.zip) to another directory(/home/team/Documents)
+
+	a.$ unzip sample.zip -l /home/team/Documents
+	b.$ unzip sample.zip l /home/team/Documents
+	c.$ unzip sample.zip -dir /home/team/Documents
+	d.$ unzip sample.zip -d /home/team/Documents
+
+Correct answer:d
