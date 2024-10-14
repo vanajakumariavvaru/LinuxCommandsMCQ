@@ -2779,3 +2779,12 @@ Correct answer:a
 	d.$ unzip sample.zip -d /home/team/Documents
 
 Correct answer:d
+
+277. What Linux command is used to display the content of the zip file ('Sample.zip') without extracting?
+
+	a.$ unzip -t Sample.zip 
+	b.$ unzip -d Sample.zip 
+	c.$ unzip -l Sample.zip 
+	d.$ unzip -f Sample.zip 
+
+Correct answer:c
