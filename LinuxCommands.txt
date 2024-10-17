@@ -2788,3 +2788,12 @@ Correct answer:d
 	d.$ unzip -f Sample.zip 
 
 Correct answer:c
+
+278. To exclude files(Test.txt, Test1.txt) from extracting a zip file(Sample.zip) what linux command is used?
+
+	a.$ unzip Sample.zip -s Test.txt Test1.txt
+	b.$ unzip Sample.zip -x Test.txt Test1.txt
+	c.$ unzip Sample.zip -l Test.txt Test1.txt
+	d.$ unzip Sample.zip -d Test.txt Test1.txt
+
+Correct answer:b
