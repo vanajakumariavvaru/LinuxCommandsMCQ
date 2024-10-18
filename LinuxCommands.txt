@@ -2797,3 +2797,12 @@ Correct answer:c
 	d.$ unzip Sample.zip -d Test.txt Test1.txt
 
 Correct answer:b
+
+279. To overwrite existing files (Sample.zip) using 'unzip' command?
+
+	a.$ unzip -o Sample.zip 
+	b.$ unzip -w Sample.zip 
+	c.$ unzip -n Sample.zip 
+	d.$ unzip -x Sample.zip 
+
+Correct answer:a
