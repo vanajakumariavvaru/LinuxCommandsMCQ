@@ -2806,3 +2806,12 @@ Correct answer:b
 	d.$ unzip -x Sample.zip 
 
 Correct answer:a
+
+280. What is admin access required Linux shell command which is used to see, set, or limit the resource usage of the current user?
+
+	a.limit 
+	b.limited
+	c.ulimit
+	d.unlimit
+
+Correct answer:c
