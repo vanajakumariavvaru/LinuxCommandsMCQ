@@ -2815,3 +2815,13 @@ Correct answer:a
 	d.unlimit
 
 Correct answer:c
+
+281. What Linux command is used to Locate a file efficiently?
+
+	a.find 
+	b.which
+	c.locate
+	d.All of the above
+
+Correct answer:d
+
