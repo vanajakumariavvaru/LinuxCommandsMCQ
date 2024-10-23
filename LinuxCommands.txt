@@ -2825,3 +2825,11 @@ Correct answer:c
 
 Correct answer:d
 
+282. To display one-line manual page descriptions, what Linux command is used?
+
+	a.whatis
+	b.whichis
+	c.whereis
+	d.whois
+
+Correct answer:a
