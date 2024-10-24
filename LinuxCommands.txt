@@ -2833,3 +2833,12 @@ Correct answer:d
 	d.whois
 
 Correct answer:a
+
+283. What Linux comman used to find the location of the binary, source, and manual page files?
+
+	a.whois
+	b.whatis
+	c.whereis
+	d.All of the above
+
+Correct answer:c
