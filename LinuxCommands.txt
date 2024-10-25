@@ -2842,3 +2842,12 @@ Correct answer:a
 	d.All of the above
 
 Correct answer:c
+
+284. What Linux command is equivalent to 'whatis' - manual page description?
+
+	a.what
+	b.man
+	c.apropos
+	d.All of the above
+
+Correct answer:c
