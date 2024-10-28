@@ -2851,3 +2851,12 @@ Correct answer:c
 	d.All of the above
 
 Correct answer:c
+
+285. What Linux command is used to find the location of a ('bash') command using 'whereis'?
+
+	a.whereis -b bash
+	b.whereis bash
+	c.whereis -m bash
+	d.whereis -l bash
+
+Correct answer:b
