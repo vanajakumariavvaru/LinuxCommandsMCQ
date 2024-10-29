@@ -2860,3 +2860,12 @@ Correct answer:c
 	d.whereis -l bash
 
 Correct answer:b
+
+286. To search only for man files for the command 'bash' using 'whereis'?
+
+	a.whereis -m bash
+	b.whereis man bash
+	c.whereis m bash
+	d.All of the above
+
+Correct answer:d
