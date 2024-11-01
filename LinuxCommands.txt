@@ -2870,7 +2870,7 @@ Correct answer:b
 
 Correct answer:d
 
-287.What Linux command is used to change file attributes on Linux file system?
+287. What Linux command is used to change file attributes on Linux file system?
 
 	a.chattr
 	b.attr
@@ -2878,3 +2878,12 @@ Correct answer:d
 	d.All of the above
 
 Correct answer:a
+
+288. What Linux commans is used to check the attributes on the files in the current directory?
+
+	a.chattr
+	b.attr
+	c.lsattr
+	d.All of the above
+
+Correct answer:c
