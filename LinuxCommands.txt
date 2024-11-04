@@ -2879,7 +2879,7 @@ Correct answer:d
 
 Correct answer:a
 
-288. What Linux commans is used to check the attributes on the files in the current directory?
+288. What Linux command is used to check the attributes on the files in the current directory?
 
 	a.chattr
 	b.attr
@@ -2887,3 +2887,12 @@ Correct answer:a
 	d.All of the above
 
 Correct answer:c
+
+289. What attribute should be added to make the file to be opened in only append mode in chattr command?
+
+	a.'a'
+	b.'e'
+	c.'r'
+	d.'i'
+
+Correct answer:a
