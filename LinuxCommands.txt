@@ -2896,3 +2896,12 @@ Correct answer:c
 	d.'i'
 
 Correct answer:a
+
+290. What attribute is added to make a file immutable(A file cannot be deleted or modified or renamed) in chattr Linux command?
+
+	a.'a'
+	b.'e'
+	c.'r'
+	d.'i'
+
+Correct answer:d
