@@ -2905,3 +2905,12 @@ Correct answer:a
 	d.'i'
 
 Correct answer:d
+
+291. How can we remove the attribute using ? followed by the attribute symbol in chattr Linux command?
+
+	a.'_'
+	b.'!'
+	c.'-'
+	d.'$'
+
+Correct answer:c
