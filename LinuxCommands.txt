@@ -2914,3 +2914,12 @@ Correct answer:d
 	d.'$'
 
 Correct answer:c
+
+292. In Linux, What is used to shutdown the system in a safe way?
+
+	a.poweroff
+	b.turnoff
+	c.shutdown
+	d.exit
+
+Correct answer:c
