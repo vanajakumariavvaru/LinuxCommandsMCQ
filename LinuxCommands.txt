@@ -2923,3 +2923,12 @@ Correct answer:c
 	d.exit
 
 Correct answer:c
+
+293. To shutdown the system at a specified time 6 P.M?
+
+	a.$ sudo shutdown 18:00
+	b.$ sudo shutdown 6:00
+	c.$ sudo -shutdown 18:00
+	d.$ sudo -shutdown 6:00
+
+Correct answer:a
