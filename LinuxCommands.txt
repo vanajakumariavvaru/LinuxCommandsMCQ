@@ -2932,3 +2932,12 @@ Correct answer:c
 	d.$ sudo -shutdown 6:00
 
 Correct answer:a
+
+294. What Linux Command is used to shutdown the system immediately?
+
+	a.$ sudo shutdown force
+	b.$ sudo shutdown immediately
+	c.$ sudo -shutdown prompt
+	d.$ sudo -shutdown now
+
+Correct answer:d
