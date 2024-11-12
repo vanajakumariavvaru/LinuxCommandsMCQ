@@ -2941,3 +2941,12 @@ Correct answer:a
 	d.$ sudo -shutdown now
 
 Correct answer:d
+
+295. What Linux command is used to schedule a system shutdown in 30 minutes from now ?
+
+	a.$ sudo shutdown +30 now
+	b.$ sudo shutdown now +30
+	c.$ sudo shutdown +30
+	d.$ sudo shutdown 30 now
+
+Correct answer:c
