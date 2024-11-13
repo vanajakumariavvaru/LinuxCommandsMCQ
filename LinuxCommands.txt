@@ -2950,3 +2950,13 @@ Correct answer:d
 	d.$ sudo shutdown 30 now
 
 Correct answer:c
+
+296. What Linux command is used to To cancel a scheduled shutdown?
+
+	a.$ sudo shutdown -c
+	b.$ sudo shutdown cancel
+	c.$ sudo shutdown -cancel
+	d.All of the above
+
+Correct answer:a
+
