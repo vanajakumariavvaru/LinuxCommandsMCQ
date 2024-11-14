@@ -2960,3 +2960,11 @@ Correct answer:c
 
 Correct answer:a
 
+297. What Linux command is used to reboot using shutdown?
+
+	a.$ sudo shutdown -reboot
+	b.$ sudo shutdown -r
+	c.$ sudo shutdown reboot
+	d.All of the above
+
+Correct answer:b
