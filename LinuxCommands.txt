@@ -2968,3 +2968,13 @@ Correct answer:a
 	d.All of the above
 
 Correct answer:b
+
+298. Difference between 'root' and 'sudo' in Linux command?
+
+	a.'root' is an account.'sudo' is a command to excecute commands with root privileges 
+	b.'root' access can often lead to accidental system changes if misused.
+	c.'sudo' enhance security by limiting access to root privileges.
+	d.All of the above
+
+Correct answer:d
+	
