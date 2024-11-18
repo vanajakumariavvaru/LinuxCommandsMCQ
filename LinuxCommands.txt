@@ -2978,3 +2978,11 @@ Correct answer:b
 
 Correct answer:d
 	
+299. What Linux command is used to restart the system?
+
+	a.$ sudo reboot
+	b.$ sudo shutdown -r now
+	c.$ init 6
+	d.All of the above
+
+Correct answer:d
