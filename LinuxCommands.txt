@@ -2986,3 +2986,12 @@ Correct answer:d
 	d.All of the above
 
 Correct answer:d
+
+300. What Linux command is used to halt the system using 'shutdown'?
+
+	a.$ sudo shutdown -H
+	b.$ sudo shutdown halt
+	c.$ sudo shutdown -h
+	d.$ sudo shutdown h
+
+Correct answer:a
