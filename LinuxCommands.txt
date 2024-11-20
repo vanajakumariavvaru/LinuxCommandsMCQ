@@ -2995,3 +2995,12 @@ Correct answer:d
 	d.$ sudo shutdown h
 
 Correct answer:a
+
+301. What Linux command allows you to schedule commands to be executed at a later time?
+
+	a.schedule
+	b.at
+	c.late
+	d.after
+
+Correct answer:b
