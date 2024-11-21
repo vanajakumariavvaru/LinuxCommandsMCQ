@@ -3004,3 +3004,13 @@ Correct answer:a
 	d.after
 
 Correct answer:b
+
+302. How to disable user account in Linux?
+
+	a.nologin
+	b.usermod
+	c.false
+	d./etc/shadow
+	d.All of the above
+
+Correct answer:d
