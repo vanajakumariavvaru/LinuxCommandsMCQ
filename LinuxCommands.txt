@@ -3014,3 +3014,13 @@ Correct answer:b
 	d.All of the above
 
 Correct answer:d
+
+303. What Linux command is used to change the default shell(currently login shell)?
+
+	a.chmod
+	b.chsh
+	c.csh
+	d.chage
+	d.All of the above
+
+Correct answer:b
