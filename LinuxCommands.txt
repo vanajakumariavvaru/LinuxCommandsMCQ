@@ -3021,6 +3021,15 @@ Correct answer:d
 	b.chsh
 	c.csh
 	d.chage
-	d.All of the above
+	e.All of the above
 
 Correct answer:b
+
+304. GCC stands for
+
+	a.GNU Compiler Collection
+	b.GNU Command Collection
+	c.Group Compiler Collection
+	d.Group Command Collection
+
+Correct answer:a
