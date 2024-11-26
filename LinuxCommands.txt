@@ -3033,3 +3033,12 @@ Correct answer:b
 	d.Group Command Collection
 
 Correct answer:a
+
+305. What Linux command is used to change current login shell from sh to bash?
+
+	a.$ chsh -s /bin/bash
+	b.$ chsh -r /bin/bash
+	c.$ chsh -c /bin/bash
+	d.$ chsh -d /bin/bash
+
+Correct answer:a
