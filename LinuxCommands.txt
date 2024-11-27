@@ -3042,3 +3042,12 @@ Correct answer:a
 	d.$ chsh -d /bin/bash
 
 Correct answer:a
+
+306. what is a command-line utility for downloading files from the web?
+
+	a.curl
+	b.getent
+	c.wget
+	d.getfacl
+
+Correct answer:c
