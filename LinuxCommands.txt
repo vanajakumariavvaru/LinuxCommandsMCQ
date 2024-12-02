@@ -3051,3 +3051,10 @@ Correct answer:a
 	d.getfacl
 
 Correct answer:c
+
+307. wget Linux command - Primary purpose is to download webpages or entire websites using the HTTP, HTTPS, and FTP protocols.
+
+	a.True
+	b.False
+
+Correct answer:a
