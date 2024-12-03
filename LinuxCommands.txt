@@ -3058,3 +3058,13 @@ Correct answer:c
 	b.False
 
 Correct answer:a
+
+308. Difference between wget and curl Linux Command?
+
+	a.wget is command line only. There's no lib or anything, but curl's features are powered by libcurl.
+	b.curl supports FTP, FTPS, GOPHER, HTTP, HTTPS, SCP, SFTP, TFTP, TELNET, DICT, LDAP, LDAPS, FILE, POP3, IMAP, SMTP, RTMP and RTSP. wget supports HTTP, HTTPS and FTP.
+	c.curl builds and runs on more platforms than wget.
+	d.curl offers upload and sending capabilities. wget only offers plain HTTP POST support.
+	e.All of the above
+
+Correct answer:e
