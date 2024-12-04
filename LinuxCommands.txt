@@ -3068,3 +3068,12 @@ Correct answer:a
 	e.All of the above
 
 Correct answer:e
+
+309. What Linux command will retrieve the HTML content of the specified URL(https://forums.tamillinuxcommunity.org/) and display it in the terminal. In Simple words fetching data from URL?
+
+	a.$ curl https://forums.tamillinuxcommunity.org/
+	b.$ wget https://forums.tamillinuxcommunity.org/
+	c.$ curl -u  https://forums.tamillinuxcommunity.org/
+	d.$ wget -u https://forums.tamillinuxcommunity.org/
+
+Correct answer:a
