@@ -3077,3 +3077,12 @@ Correct answer:e
 	d.$ wget -u https://forums.tamillinuxcommunity.org/
 
 Correct answer:a
+
+310. A tool used to interact with the systemd and the service manager in Linux?
+
+	a.systemctl
+	b.sysctl
+	c.systemd
+	d.All of the above
+
+Correct answer:a
