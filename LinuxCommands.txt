@@ -3086,3 +3086,14 @@ Correct answer:a
 	d.All of the above
 
 Correct answer:a
+
+311. Which of the below is not systemctl commands( An action we want to perform for service)?
+
+	a.start
+	b.stop
+	c.able
+	d.diable
+	e.restart
+	f.status
+
+Correct answer:c
