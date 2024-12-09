@@ -3097,3 +3097,10 @@ Correct answer:a
 	f.status
 
 Correct answer:c
+
+312. In Linux Deamons and Services are same?
+
+	a.Yes
+	b.No
+
+Correct answer:b
