@@ -3104,3 +3104,12 @@ Correct answer:c
 	b.No
 
 Correct answer:b
+
+313. How to start a service(mariadb) using sysytemctl Linux command?
+
+	a.$ sudo start systemctl mariadb.service
+	b.$ sudo systemctl start mariadb.service
+	c.$ sudo systemctl mariadb.service
+	d.All of the above
+
+Correct answer:b
