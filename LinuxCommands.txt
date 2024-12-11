@@ -3113,3 +3113,12 @@ Correct answer:b
 	d.All of the above
 
 Correct answer:b
+
+314. How to stop a service(mariadb) using sysytemctl Linux command?
+
+	a.$ sudo stop systemctl mariadb.service
+	b.$ stop mariadb.service
+	c.$ sudo systemctl stop mariadb.service
+	d.All of the above
+
+Correct answer:a
