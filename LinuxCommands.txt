@@ -3122,3 +3122,11 @@ Correct answer:b
 	d.All of the above
 
 Correct answer:a
+
+315. How to check Service(mariadb) is enabled or disabled using systemctl Linux command?
+
+	a.$ sudo systemctl is-active mariadb.service
+	b.$ sudo systemctl is-enabled mariadb.service
+	c.Both
+
+Correct answer:c
