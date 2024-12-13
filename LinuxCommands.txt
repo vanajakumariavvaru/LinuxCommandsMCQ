@@ -3130,3 +3130,12 @@ Correct answer:a
 	c.Both
 
 Correct answer:c
+
+316. How to find systemd version on Linux using the systemctl?
+
+	a.$ systemd --v
+	b.$ systemd --version
+	c.$ systemctl --v
+	d.$ systemctl --version
+
+Correct answer:d
