@@ -3139,3 +3139,10 @@ Correct answer:c
 	d.$ systemctl --version
 
 Correct answer:d
+
+317. How to shutdown systemd system?
+
+	a.$ sudo systemctl poweroff
+	b.$ sudo systemctl shutdown
+
+Correct answer:a
