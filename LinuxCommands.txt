@@ -3146,3 +3146,10 @@ Correct answer:d
 	b.$ sudo systemctl shutdown
 
 Correct answer:a
+
+318. The Berkeley Software Distribution(BSD), also known as Berkeley Unix. BSD,unlike Linux,is a complete operating system,also a kernel,used as the core of the operating system?
+
+	a.True
+	b.False
+
+Correct answer:a
