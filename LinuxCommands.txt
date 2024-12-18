@@ -3153,3 +3153,10 @@ Correct answer:a
 	b.False
 
 Correct answer:a
+
+319. FOSS stands for
+
+	a.Free and Open Source Software
+	b.Free Operating System Software
+
+Correct answer:a
