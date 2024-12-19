@@ -3160,3 +3160,13 @@ Correct answer:a
 	b.Free Operating System Software
 
 Correct answer:a
+
+320. What Linux Command is used to prepare a file for printing by adding suitable
+footers, headers, and the formatted text?
+
+	a.dr
+	b.print
+	c.pr
+	d.printf
+
+Correct answer:c
