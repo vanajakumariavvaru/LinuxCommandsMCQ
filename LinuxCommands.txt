@@ -3170,3 +3170,12 @@ footers, headers, and the formatted text?
 	d.printf
 
 Correct answer:c
+
+321. A file(abc.txt) has 10 numbers from 1 to 10 with every number in a new line. How to print this content in 2 columns using 'pr' Linux command?
+
+	a.$ pr -2 abc.txt
+	b.$ pr 2 abc.txt
+	c.$ pr abc.txt -2
+	d.$ pr abc.txt 2
+
+Correct answer:a
