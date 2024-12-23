@@ -3179,3 +3179,12 @@ Correct answer:c
 	d.$ pr abc.txt 2
 
 Correct answer:a
+
+322. How to suppress the headers and footers of 'Goals.txt' using 'pr' Linux command?
+
+	a.$ pr -t Goals.txt
+	b.$ pr -d Goals.txt
+	c.$ pr -n Goals.txt
+	d.$ pr  -TGoals.txt
+
+Correct answer:a
