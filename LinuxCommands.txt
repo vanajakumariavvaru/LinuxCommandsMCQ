@@ -3188,3 +3188,12 @@ Correct answer:a
 	d.$ pr  -TGoals.txt
 
 Correct answer:a
+
+323. What Linux command is to provide number lines which helps in debugging the code using 'pr' code?
+
+	a.$ pr -t file.txt
+	b.$ pr -n file.txt
+	c.$ pr -d file.txt
+	d.$ pr -k file.txt
+
+Correct answer:b
