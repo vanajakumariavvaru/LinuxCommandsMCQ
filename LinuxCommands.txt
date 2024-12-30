@@ -3197,3 +3197,12 @@ Correct answer:a
 	d.$ pr -k file.txt
 
 Correct answer:b
+
+324. What Linux command is used to double the paces input, reduces clutter using 'pr' ?
+
+	a.$ pr -D file.txt
+	b.$ pr -T file.txt
+	c.$ pr -d file.txt
+	d.$ pr -t file.txt
+
+Correct answer:c
