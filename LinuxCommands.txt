@@ -3206,3 +3206,12 @@ Correct answer:b
 	d.$ pr -t file.txt
 
 Correct answer:c
+
+325. What command in Linux is to format and display text, numbers, and data types for better terminal output?
+
+	a.pr
+	b.print
+	c.printf
+	d.prtstat
+
+Correct answer:c
