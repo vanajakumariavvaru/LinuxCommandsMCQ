@@ -3215,3 +3215,11 @@ Correct answer:c
 	d.prtstat
 
 Correct answer:c
+
+326. What Linux command is used to display a message or print the text? 
+
+	a.$ printf "Wishing everyone a Happy New Year"
+	b.$ echo "Wishing everyone a Happy New Year"
+	c.Both
+
+Correct answer:c
