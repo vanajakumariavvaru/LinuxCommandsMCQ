@@ -3223,3 +3223,12 @@ Correct answer:c
 	c.Both
 
 Correct answer:c
+
+327. What Linux command is used to display output with new line using 'printf'?
+
+	a.$ printf "Welcome to ILUGC \n"
+	b.$ printf "Welcome to ILUGC \f"
+	c.$ printf "Welcome to ILUGC \p"
+	d.$ printf "Welcome to ILUGC \d"
+
+Correct answer:a
