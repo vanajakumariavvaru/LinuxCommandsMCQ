@@ -3232,3 +3232,12 @@ Correct answer:c
 	d.$ printf "Welcome to ILUGC \d"
 
 Correct answer:a
+
+328. What specifier is used to print a specified string output for 'printf' Linux command?
+
+	a.%d
+	b.%b
+	c.%s
+	d.%string
+
+Correct answer:c
