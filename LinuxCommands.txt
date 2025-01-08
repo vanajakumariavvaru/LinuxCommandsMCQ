@@ -3241,3 +3241,12 @@ Correct answer:a
 	d.%string
 
 Correct answer:c
+
+329. What specifier is used to print the integral values for 'printf' Linux command?
+
+	a.%i
+	b.%integer
+	c.%d
+	d.%b
+
+Correct answer:c
