@@ -3250,3 +3250,12 @@ Correct answer:c
 	d.%b
 
 Correct answer:c
+
+330. What float specifieris used to print float values that prints numbers up to 6 points by default in 'Printf' Linux command?
+
+	a.%float
+	b.%f 
+	c.%b
+	d.%f
+
+Correct answer:d
