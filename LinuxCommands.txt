@@ -3259,3 +3259,13 @@ Correct answer:c
 	d.%f
 
 Correct answer:d
+
+331. What Linux command is to clear the terminal screen?
+
+	a.$ clear
+	b.CTRL + l
+	c.reset
+	d.printf “\033c” 
+	e.All of the above
+
+Correct answer:e
