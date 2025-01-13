@@ -3269,3 +3269,10 @@ Correct answer:d
 	e.All of the above
 
 Correct answer:e
+
+332. What Linux command allows the user to create replacements for other commands and make it easier to remember and use(customised shortcut for commands)?
+
+	a.alias
+	b.unalias
+
+Correct answer:a
