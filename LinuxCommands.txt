@@ -3276,3 +3276,12 @@ Correct answer:e
 	b.unalias
 
 Correct answer:a
+
+333. What Linux command will remove the customised shortcuts created in alias?
+
+	a.alias -rm
+	b.alias remove
+	c.unalias
+	d.All of the above
+
+Correct answer:c
