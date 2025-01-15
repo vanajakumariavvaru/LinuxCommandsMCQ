@@ -3285,3 +3285,10 @@ Correct answer:a
 	d.All of the above
 
 Correct answer:c
+
+334. Shell built-in commands don't have man pages?
+
+	a.True
+	b.False
+
+Correct answer:a
