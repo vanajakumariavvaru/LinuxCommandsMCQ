@@ -3292,3 +3292,10 @@ Correct answer:c
 	b.False
 
 Correct answer:a
+
+335. Shell built in commands don't have man pages, all bash builtins have help pages.
+
+	a.True
+	b.False
+
+Correct answer:a
