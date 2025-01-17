@@ -3299,3 +3299,12 @@ Correct answer:a
 	b.False
 
 Correct answer:a
+
+336. What Linux command is used to check whether the 'cd' is a built-in command or not?
+
+	a.$ type -t cd
+	b.$ built cd
+	c.$ built -t cd
+	d.$ type cd
+
+Correct answer:a
