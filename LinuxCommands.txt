@@ -3308,3 +3308,12 @@ Correct answer:a
 	d.$ type cd
 
 Correct answer:a
+
+337. What Bash keyboard shortcuts stops the currently running command?
+
+	a.CTRL + D
+	b.CTRL + L
+	c.CTRL + A
+	d.CTRL + S
+
+Correct answer:a
