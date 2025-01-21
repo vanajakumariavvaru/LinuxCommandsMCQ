@@ -3317,3 +3317,12 @@ Correct answer:a
 	d.CTRL + S
 
 Correct answer:a
+
+338.What Shortcut Key moves to the beginning of the current command line?
+
+	a.CTRL + E
+	b.CTRL + B / LEFT ARROW
+	c.CTRL + B / RIGHT ARROW
+	d.CTRL + A
+
+Correct answer:d
