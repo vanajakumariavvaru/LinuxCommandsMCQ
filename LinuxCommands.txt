@@ -3326,3 +3326,12 @@ Correct answer:a
 	d.CTRL + A
 
 Correct answer:d
+
+339. What Shortcut Key Log out or exit the terminal.
+
+	a.CTRL + E
+	b.CTRL + D
+	c.CTRL + L
+	d.CTRL + Z
+
+Correct answer:b
