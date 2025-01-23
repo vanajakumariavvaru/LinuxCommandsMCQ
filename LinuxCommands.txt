@@ -3335,3 +3335,11 @@ Correct answer:d
 	d.CTRL + Z
 
 Correct answer:b
+
+340. What shortcut key to open a terminal in Linux?
+	a.Ctrl + Alt + T
+	b.Ctrl + Alt + X
+	c.Ctrl + Alt + A
+	d.Ctrl + Alt + C
+
+Correct answer:a
