@@ -3343,3 +3343,12 @@ Correct answer:b
 	d.Ctrl + Alt + C
 
 Correct answer:a
+
+341. What shortcut keys moves to the ending of the current command line.
+
+	a.CTRL + A
+	b.CTRL + D
+	c.CTRL + E
+	d.CTRL + Z
+
+Correct answer:c
