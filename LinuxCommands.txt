@@ -3352,3 +3352,11 @@ Correct answer:a
 	d.CTRL + Z
 
 Correct answer:c
+
+342. Ctrl + Alt + L in Linux?
+
+	a.Clears theterminal screen
+	b.Unlock the screen
+	c.Locks the acreen
+
+Correct answer:c
