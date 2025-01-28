@@ -3360,3 +3360,12 @@ Correct answer:c
 	c.Locks the acreen
 
 Correct answer:c
+
+343. What shortcut keys removes everything after the cursor to the end?
+
+	a.CTRL + W
+	b.CTRL + I
+	c.CTRL + U
+	d.CTRL + K
+
+Correct answer:d
