@@ -3369,3 +3369,11 @@ Correct answer:c
 	d.CTRL + K
 
 Correct answer:d
+
+344. What shortcut keys erase everything from the current cursor position to the beginning of the line?
+	a.CTRL + K
+	b.CTRL + H
+	c.CTRL + U
+	d.CTRL + G
+
+Correct answer:c
