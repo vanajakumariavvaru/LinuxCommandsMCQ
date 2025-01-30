@@ -3371,9 +3371,19 @@ Correct answer:c
 Correct answer:d
 
 344. What shortcut keys erase everything from the current cursor position to the beginning of the line?
+
 	a.CTRL + K
 	b.CTRL + H
 	c.CTRL + U
 	d.CTRL + G
 
 Correct answer:c
+
+345. What Linux shortcut keys runs the previous command?
+
+	a.!*
+	b.!!
+	c.!^
+	d.!n
+
+Correct answer:b
