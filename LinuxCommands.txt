@@ -3387,3 +3387,11 @@ Correct answer:c
 	d.!n
 
 Correct answer:b
+
+346. What Linux shortcut keys opens a new terminal window?
+
+	a.Ctrl + Shift + N
+	b.Ctrl + Shift + T
+	c.Both
+
+Correct answer:a
