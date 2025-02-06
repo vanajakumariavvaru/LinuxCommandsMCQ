@@ -3395,3 +3395,10 @@ Correct answer:b
 	c.Both
 
 Correct answer:a
+
+347. What Linux shortcut keys opens a new tab in the terminal ?
+
+	a.Ctrl + Shift + N
+	b.Ctrl + Shift + T
+
+Correct answer:b
