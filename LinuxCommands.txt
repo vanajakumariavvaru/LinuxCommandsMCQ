@@ -3402,3 +3402,10 @@ Correct answer:a
 	b.Ctrl + Shift + T
 
 Correct answer:b
+
+348. What Linux command is used to change the access permissions of files and directories?
+
+	a.chmod
+	b.chown
+
+Correct answer:a
