@@ -3409,3 +3409,12 @@ Correct answer:b
 	b.chown
 
 Correct answer:a
+
+349. What permission does the octal value 7 represent in chmod Linux command?
+
+	a.Execute
+	b.Read
+	c.Write
+	d.Read, Write and Execute
+
+Correct answer:d
