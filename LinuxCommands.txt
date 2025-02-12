@@ -3418,3 +3418,12 @@ Correct answer:a
 	d.Read, Write and Execute
 
 Correct answer:d
+
+350. What does the command chmod g=r file_name do in Linux?
+
+	a.Sets read and write permissions for the group
+	b.Sets read permission for the group and removes all other permissions
+	c.Grants read permission to the owner and group
+	d.None of the above
+
+Correct answer:b
