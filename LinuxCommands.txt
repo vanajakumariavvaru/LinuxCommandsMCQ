@@ -3427,3 +3427,12 @@ Correct answer:d
 	d.None of the above
 
 Correct answer:b
+
+351. What chmod Linux command is used to set other users permission to read the file
+
+	a.chmod g=r file_name
+	b.chmod ugo=r file_name
+	c.chmod o=r file_name
+	d.None of the above
+
+Correct answer:c
