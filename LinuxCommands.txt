@@ -3436,3 +3436,12 @@ Correct answer:b
 	d.None of the above
 
 Correct answer:c
+
+352. What chmod linux command is used to set user , group and others permission to read the file?
+
+	a.chmod go=r file_name
+	b.chmod uo=r file_name
+	c.chmod go=r file_name
+	d.All of the above
+
+Correct answer:a
