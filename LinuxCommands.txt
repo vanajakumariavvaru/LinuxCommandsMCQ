@@ -3445,3 +3445,13 @@ Correct answer:c
 	d.All of the above
 
 Correct answer:a
+
+353. What does the following command do in Linux?
+$ chmod og-rwx filename
+
+	a.It removes read, write, and execute permissions for group and others on the file filename
+	b.It removes read, write, and execute permissions for owner and others on the file filename
+	c.It removes read, write, and execute permissions for owner and group on the file filename
+	d.It adds read, write, and execute permissions for group and others on the file filename.
+
+Correct answer:a
