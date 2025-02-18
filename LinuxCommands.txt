@@ -3455,3 +3455,13 @@ $ chmod og-rwx filename
 	d.It adds read, write, and execute permissions for group and others on the file filename.
 
 Correct answer:a
+
+354. What does the following command do?
+$ chmod 777 file_name
+
+	a.It sets read, write, and execute permissions for owner, group, and others on the file file_name
+	b.It sets read and write permissions for owner, group, and others on the file file_name
+	c.It sets read and execute permissions for owner, group, and others on the file file_name
+	d.It sets write and execute permissions for owner, group, and others on the file file_name
+
+Correct answer:a
