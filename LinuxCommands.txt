@@ -3465,3 +3465,13 @@ $ chmod 777 file_name
 	d.It sets write and execute permissions for owner, group, and others on the file file_name
 
 Correct answer:a
+
+355. What does the following command do?
+$ chmod 744 file_name (-rwxr--r--)
+
+	a.It sets read, write, and execute permissions for the owner, and read-only permissions for the group and others on the file file_name
+	b.t sets read and write permissions for the owner, and read-only permissions for the group and others on the file file_name
+	c.It sets read and execute permissions for the owner, and read-only permissions for the group and others on the file file_name.
+	d.It sets read, write, and execute permissions for the owner and removes all permissions for the group and others on the file file_name.
+
+Correct answer:d
