@@ -3475,3 +3475,12 @@ $ chmod 744 file_name (-rwxr--r--)
 	d.It sets read, write, and execute permissions for the owner and removes all permissions for the group and others on the file file_name.
 
 Correct answer:d
+
+356.What does the Linux command 'chmod 750 file_name' (-rwxr-x---) do?
+
+	a.It grants full permissions (read, write, and execute) to all users.
+	b.It removes all permissions from the file for the owner, group, and others.
+	c.It grants read, write, and execute permissions to the owner, and read and execute permissions to the group. Others have no permissions.
+	d.It grants read and write permissions to the owner and group, and execute permissions to others.
+
+Correct answer:d
