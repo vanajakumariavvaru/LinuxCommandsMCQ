@@ -3484,3 +3484,12 @@ Correct answer:d
 	d.It grants read and write permissions to the owner and group, and execute permissions to others.
 
 Correct answer:d
+
+357. What is the purpose of the sticky bit in Linux?
+
+	a.It allows only the root user to delete or rename files in a directory.
+	b.It ensures that only the owner of a file can delete or rename the file in a directory, while others cannot.
+	c.It sets the file or directory to read-only for all users.
+	d.It sets write and execute permissions for owner, group, and others on the file file_name
+
+Correct answer:b
