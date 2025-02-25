@@ -3493,3 +3493,12 @@ Correct answer:d
 	d.It sets write and execute permissions for owner, group, and others on the file file_name
 
 Correct answer:b
+
+358. Which command used to set read, write, and execute permissions, and enable the sticky bit on a given directory?
+
+	a.chmod 7777 dir_name
+	b.chmod 7557 dir_name
+	c.chmod 1777 dir_name
+	d.chmod 777 dir_name
+
+Correct answer:c
