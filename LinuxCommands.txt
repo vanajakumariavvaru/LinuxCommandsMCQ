@@ -3502,3 +3502,12 @@ Correct answer:b
 	d.chmod 777 dir_name
 
 Correct answer:c
+
+359. What does the xclock command do in Linux?
+
+	a.It displays a graphical clock on the X Window System.
+	b.It shows the current time in the terminal in a text-based format.
+	c.It sets the system clock to UTC time.
+	d.It synchronizes the system time with an internet time server.
+
+Correct answer:a
