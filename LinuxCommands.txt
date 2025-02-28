@@ -3511,3 +3511,11 @@ Correct answer:c
 	d.It synchronizes the system time with an internet time server.
 
 Correct answer:a
+
+360. What Linux command is used to display  digital clock?
+
+	a.$ xclock -digital
+	b.$ xclock --digital
+	c.All of the above
+
+Correct answer:a
