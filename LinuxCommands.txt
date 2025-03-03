@@ -3519,3 +3519,12 @@ Correct answer:a
 	c.All of the above
 
 Correct answer:a
+
+361. What Linux command is used to build and execute command lines from standard input?
+
+	a.xargs
+	b.echo
+	c.cat
+	d.grep
+
+Correct answer:a
