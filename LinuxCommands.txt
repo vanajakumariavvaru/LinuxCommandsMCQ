@@ -3528,3 +3528,12 @@ Correct answer:a
 	d.grep
 
 Correct answer:a
+
+362. Which command will use xargs to execute echo with the input received from the standard input
+
+	a.xargs echo
+	b.echo | xargs
+	c.xargs | echo
+	d.xargs with no arguments
+
+Correct answer:a
