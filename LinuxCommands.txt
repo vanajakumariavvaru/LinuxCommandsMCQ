@@ -3537,3 +3537,11 @@ Correct answer:a
 	d.xargs with no arguments
 
 Correct answer:a
+
+363. To combine xargs with find command, What Linux command searches for all .txt files in the current directory and its subdirectories and then deletes them using the rm command.
+
+	a.find . -name "*.txt" | xargs rm
+	b.find . -name "*.txt" xargs rm
+	c.All of the above
+
+Correct answer:a
