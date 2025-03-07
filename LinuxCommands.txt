@@ -3545,3 +3545,13 @@ Correct answer:a
 	c.All of the above
 
 Correct answer:a
+
+364. To combine xargs with grep
+What is the result of Linux command find / -name *.txt | xargs grep 'sample'?
+
+	a.It will display all .txt files that contain the string "sample"
+	b.It will list all .txt files in the root directory
+	c.It will list the names of all .txt files found by find
+	d.It will search for the string "sample" in .txt files but not display any output
+
+Correct answer:a
