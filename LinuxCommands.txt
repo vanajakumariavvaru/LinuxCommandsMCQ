@@ -3555,3 +3555,12 @@ What is the result of Linux command find / -name *.txt | xargs grep 'sample'?
 	d.It will search for the string "sample" in .txt files but not display any output
 
 Correct answer:a
+
+365. What command is used in Linux to change the group ownership of a file or directory?
+
+	a.chmod
+	b.chown
+	c.chgrp
+	d.All of the above
+
+Correct answer:c
