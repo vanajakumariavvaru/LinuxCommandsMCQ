@@ -3546,6 +3546,14 @@ Correct answer:a
 
 Correct answer:a
 
+
+364. What Linux commands is used to change the group ownership of a directory using chgrp
+
+	a.chgrp groupname directory_name
+	b.chgrp directory_name groupname
+	c.Both
+
+Correct answer:a
 364. To combine xargs with grep
 What is the result of Linux command find / -name *.txt | xargs grep 'sample'?
 
