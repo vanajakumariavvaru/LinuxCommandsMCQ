@@ -3572,3 +3572,12 @@ Correct answer:a
 	d.All of the above
 
 Correct answer:c
+
+366. What Linux command is used to recursively change the group ownership of files and directories using chgrp?
+
+	a.$ sudo chgrp -R ilugc example
+	b.$ sudo chgrp -recursive ilugc example
+	c.$ sudo chgrp -r ilugc example
+	d.$ sudo chgrp ilugc -r example
+
+Correct answer:c
