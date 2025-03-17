@@ -3581,3 +3581,12 @@ Correct answer:c
 	d.$ sudo chgrp ilugc -r example
 
 Correct answer:c
+
+367. What happens when you run the Linux command '$ sudo chgrp -v ilugc file1'?
+
+	a.The group of file1 is changed to ilugc, and a message is displayed only if the group ownership is successfully changed.
+	b.The group of file1 is changed to ilugc, and a message is displayed for every file, even if the group ownership remains the same.
+	c.The group of file1 is changed to ilugc, and a message is displayed only if the group is already ilugc.
+	d.The group of file1 is changed to ilugc, and no message is displayed.
+
+Correct answer:b
