@@ -3590,3 +3590,12 @@ Correct answer:c
 	d.The group of file1 is changed to ilugc, and no message is displayed.
 
 Correct answer:b
+
+368. What Linux command is used to update user passwords?
+
+	a.passwd
+	b.usermod
+	c.chpasswd
+	d.chage
+
+Correct answer:c
