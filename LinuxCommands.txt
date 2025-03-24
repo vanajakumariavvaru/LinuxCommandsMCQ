@@ -3599,3 +3599,12 @@ Correct answer:b
 	d.chage
 
 Correct answer:c
+
+369. What is the main purpose of the chpasswd command in Linux?
+
+	a.The chpasswd command is used to change user passwords in bulk by reading username:password pairs from a file or input.
+	b.The chpasswd command is used to delete user accounts.
+	c.The chpasswd command changes system settings related to network configuration.
+	d.The chpasswd command allows you to modify file permissions.
+
+Correct answer:a
