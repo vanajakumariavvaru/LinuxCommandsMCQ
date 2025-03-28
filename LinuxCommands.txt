@@ -3608,3 +3608,12 @@ Correct answer:c
 	d.The chpasswd command allows you to modify file permissions.
 
 Correct answer:a
+
+370. What is the primary purpose of the chfn command in Linux?
+
+	a.To change the user's login shell
+	b.To change the user's information (full name, office number, phone number)
+	c.To change the user's password
+	d.To change the user's home directory
+
+Correct answer:b
