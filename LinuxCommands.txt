@@ -3617,3 +3617,12 @@ Correct answer:a
 	d.To change the user's home directory
 
 Correct answer:b
+
+371. What option is used with the 'chfn' Linux command to change the user's full name?
+
+	a.$ sudo chfn -f kanchilug klug
+	b.$ sudo chfn -p kanchilug klug
+	c.$ sudo chfn -o kanchilug klug
+	d.$ sudo chfn -s kanchilug klug
+
+Correct answer:a
