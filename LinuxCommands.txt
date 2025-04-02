@@ -3626,3 +3626,12 @@ Correct answer:b
 	d.$ sudo chfn -s kanchilug klug
 
 Correct answer:a
+
+372. What Linux command is used to change the owner of a file ?
+
+	a.$ chmod
+	b.$ chown
+	c.$ chgrp
+	d.$ chfn
+
+Correct answer:b
