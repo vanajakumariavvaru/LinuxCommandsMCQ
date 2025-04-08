@@ -3635,3 +3635,12 @@ Correct answer:a
 	d.$ chfn
 
 Correct answer:b
+
+373. What will happen if a normal user tries to change the ownership of a file to another user using chown?
+
+	a.The command executes successfully
+	b.Permission is denied unless run as root or using sudo
+	c.The file gets deleted
+	d.The file is copied to the new owner’s directory
+
+Correct answer:b
